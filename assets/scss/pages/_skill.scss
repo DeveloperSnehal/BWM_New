@@ -6,23 +6,23 @@
 
     & .skill-left {
         padding-right: 120px;
-    
+
         & p {
             font-size: 16px;
             line-height: 30px;
             margin-top: 40px;
         }
-    
+
         & .skill-author {
             margin-top: 30px;
-    
+
             & .name {
                 font-size: 16px;
                 line-height: 24px;
                 font-weight: 600;
                 margin-top: 10px;
             }
-    
+
             & .designation {
                 font-size: 12px;
                 line-height: 18px;
@@ -33,17 +33,17 @@
     & .skill-right {
         padding-right: 50px;
         margin-top: 30px;
-        
+
         & .experience {
             display: flex;
-    
+
             & .number {
                 font-size: 180px;
                 line-height: 30px;
                 color: $primary-2;
                 margin-right: 10px;
             }
-    
+
             & span {
                 font-size: 18px;
                 line-height: 24px;
@@ -80,7 +80,7 @@
                 border-radius: 0px;
                 background-color: transparent;
                 position: relative;
-    
+
                 & .progress-line {
                     position: absolute;
                     top: 0;
@@ -91,7 +91,7 @@
                     transition: 3s;
                     transition-delay: 1s;
                     width: 0;
-    
+
                     & .skill-percent {
                         position: absolute;
                         top: -45px;
@@ -129,7 +129,7 @@
             }
         }
     }
-    
+
 }
 
 .techwix-skill-section {
@@ -138,9 +138,9 @@
             padding-right: 30px;
         }
         & .skill-right {
-            
+
             & .experience {
-        
+
                 & .number {
                     font-size: 150px;
                 }
@@ -159,15 +159,15 @@
         }
 
         & .counter-bar {
-        
+
             & .skill-item {
-        
+
                 & .skill-bar {
-        
+
                     & .bar-inner {
-            
+
                         & .progress-line {
-            
+
                             & .skill-percent {
                                 right: -15px;
                             }
@@ -175,14 +175,14 @@
                     }
                 }
             }
-            
+
         }
     }
 }
 
 // Home Style Three
 
-  
+
 .techwix-skill-section-02 {
     background-repeat: no-repeat;
     background-position: center center;
@@ -235,7 +235,7 @@
                     font-weight: 600;
                     color: $primary;
                     margin-top: 20px;
-                    
+
                     & i {
                         position: relative;
                         top: 1px;
@@ -258,20 +258,20 @@
 
         & .counter-bar {
             padding-top: 0px;
-        
+
             & .skill-item {
-        
+
                 & .skill-bar {
-        
+
                     & .bar-inner {
-            
+
                         & .progress-line {
                             background: $primary;
                         }
                     }
                 }
             }
-            
+
         }
     }
 }
@@ -289,11 +289,11 @@
     }
     @media #{$small-mobile}  {
         & .skill-left {
-    
+
             & .experience-wrap {
                 flex-direction: column;
                 gap: 25px;
-                
+
                 & .experience-text {
                     margin-left: 0px;
                 }
@@ -307,7 +307,7 @@
 
     & .skill-left {
         padding-right: 60px;
-        
+
         & .about-list {
             margin-top: 20px;
         }

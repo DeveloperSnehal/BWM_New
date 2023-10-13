@@ -51,7 +51,7 @@
         @media #{$extra-small-mobile} {
             padding: 40px 35px 45px 35px;
         }
-        
+
         & .solution-title {
             flex: 1;
             & .sub-title {
@@ -90,7 +90,7 @@
 
     &.solution-item-big {
         & .solution-content {
-            
+
             & .solution-title {
                 padding-right: 110px;
                 @media #{$large-mobile} {

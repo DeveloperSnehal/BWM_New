@@ -53,10 +53,13 @@
             <div class="col-lg-6">
                 <!-- Hero Content Start -->
                 <div class="hero-content">
-                    <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">Technology Releted Consultancy</h3>
-                    <h2 class="title" data-aos="fade-up" data-aos-delay="800">We transform ideas into technology</h2>
-                    <p data-aos="fade-up" data-aos-delay="900">We provide the most responsive and functional IT design
-                        for companies and businesses worldwide.</p>
+                    <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">SUSTAINABILITY through CIRCULARITY
+                    </h3>
+                    <h2 class="title" data-aos="fade-up" data-aos-delay="800">Turning Today's Trash into Tomorrow's
+                        Treasure</h2>
+                    <p data-aos="fade-up" data-aos-delay="900">We're the #1 E-Waste Recycler and IT Waste Management
+                        Service Provider for companies and businesses worldwide
+                    </p>
                     <div class="hero-btn" data-aos="fade-up" data-aos-delay="1000">
                         <a class="btn" href="about.html">Read More</a>
                     </div>
@@ -81,11 +84,11 @@
                             <img src="assets/images/ser-icon9.png" alt="">
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="service.html">Infrastructure Technology</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
+                            <h3 class="title"><a href="#">Certified Recycler</a></h3>
+                            <p>We are authorized by the Central Pollution Control Board, Ministry of Environment, Forest
+                                and Climate Change, Govt.</p>
                             <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
+                                <a href="#"><i class="fas fa-plus"></i> Read More</a>
                             </div>
                         </div>
                     </div>
@@ -98,9 +101,9 @@
                             <img src="assets/images/ser-icon10.png" alt="">
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="service.html">IT Consultancy & solution</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
+                            <h3 class="title"><a href="service.html">Easy Pickup</a></h3>
+                            <p>We are a Pan India company, hence we can offer hassle-free and easy pickup services from
+                                any of your preferred and convenient location.</p>
                             <div class="read-more">
                                 <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
                             </div>
@@ -115,9 +118,9 @@
                             <img src="assets/images/ser-icon11.png" alt="">
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="service.html">Cloud managed services</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
+                            <h3 class="title"><a href="service.html">Eco-friendly Procedure</a></h3>
+                            <p>Our process of managing and recycling of waste generated from industries is completely
+                                eco-friendly & environment conscious.</p>
                             <div class="read-more">
                                 <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
                             </div>
@@ -132,9 +135,9 @@
                             <img src="assets/images/ser-icon12.png" alt="">
                         </div>
                         <div class="service-content">
-                            <h3 class="title"><a href="service.html">Blockchain technology</a></h3>
-                            <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                team of incredible freelance talent.</p>
+                            <h3 class="title"><a href="service.html">100% Compliance</a></h3>
+                            <p>We strictly follow all the regulations set by the Government Bodies to offer stress-free
+                                recycling with regards to Government policies.</p>
                             <div class="read-more">
                                 <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
                             </div>
@@ -160,11 +163,12 @@
                     <!-- About Content Wrap Start -->
                     <div class="about-content-wrap">
                         <div class="section-title">
-                            <h3 class="sub-title">Who we are</h3>
-                            <h2 class="title">Highly Tailored IT Design, Management & Support Services.</h2>
+                            <h3 class="sub-title">WE'RE ON A MISSION TO</h3>
+                            <h2 class="title">Achieve SUSTAINABILITY Through CIRCULARITY</h2>
                         </div>
-                        <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire
-                            remote team of incredible freelance talent for all your software development needs.</p>
+                        <p class="text">BWM is not just a company, it’s a mission.We will help you in Collection,
+                            Segregation, Dismantling, and Refurbishment of all your corporate waste with 100% compliance
+                            & with Green Certification mentioning that your e-waste has been legally disposed of.</p>
                         <!-- About Author Info Wrap Start -->
                         <div class="about-author-info-wrap">
                             <div class="about-author">
@@ -216,8 +220,8 @@
                             <img src="assets/images/counter-1.png" alt="">
                         </div>
                         <div class="counter-content">
-                            <span class="counter">1790</span>
-                            <p>Happy clients</p>
+                            <span class="counter">125</span>
+                            <p>Our Clients</p>
                         </div>
                     </div>
                     <!-- Single Counter End -->
@@ -229,8 +233,8 @@
                             <img src="assets/images/counter-2.png" alt="">
                         </div>
                         <div class="counter-content">
-                            <span class="counter">491</span>
-                            <p>Finished projects</p>
+                            <span class="counter">110</span>
+                            <p>Type Of Industry</p>
                         </div>
                     </div>
                     <!-- Single Counter End -->
@@ -242,8 +246,8 @@
                             <img src="assets/images/counter-3.png" alt="">
                         </div>
                         <div class="counter-content">
-                            <span class="counter">245</span>
-                            <p>Skilled Experts</p>
+                            <span class="counter">17</span>
+                            <p>Total States Covered</p>
                         </div>
                     </div>
                     <!-- Single Counter End -->
@@ -255,8 +259,8 @@
                             <img src="assets/images/counter-1.png" alt="">
                         </div>
                         <div class="counter-content">
-                            <span class="counter">1090</span>
-                            <p>Media Posts</p>
+                            <span class="counter">6</span>
+                            <p>Years of Service</p>
                         </div>
                     </div>
                     <!-- Single Counter End -->
@@ -274,8 +278,8 @@
         <!-- Choose Us Wrap Start -->
         <div class="choose-us-wrap">
             <div class="section-title text-center">
-                <h3 class="sub-title">REASON TO CHOOSE US</h3>
-                <h2 class="title">We provide truly prominent IT solutions.</h2>
+                <h3 class="sub-title">HERE'S WHAT WE</h3>
+                <h2 class="title">MANAGE & RECYCLE</h2>
             </div>
             <div class="choose-us-content-wrap">
                 <div class="row">
@@ -285,10 +289,9 @@
                             <div class="choose-us-img">
                                 <a href="choose-us.html"><img src="assets/images/choose-us1.jpg" alt=""></a>
                                 <div class="choose-us-content">
-                                    <h3 class="title">Information managemnet system</h3>
-                                    <p>Accelerate innovation with world-class tech teams We’ll match you to an entire
-                                        remote team of incredible freelance talent for all your software development
-                                        needs.</p>
+                                    <h3 class="title">Electronic Waste</h3>
+                                    <p>We offer a full range of collection, transportation, disassembly, recycling, and
+                                        environmentally-sound disposal of electronic devices.</p>
                                 </div>
                             </div>
                         </div>
@@ -300,10 +303,9 @@
                             <div class="choose-us-img">
                                 <a href="choose-us.html"><img src="assets/images/choose-us2.jpg" alt=""></a>
                                 <div class="choose-us-content">
-                                    <h3 class="title">Information Database Security</h3>
-                                    <p>Accelerate innovation with world-class tech teams We’ll match you to an entire
-                                        remote team of incredible freelance talent for all your software development
-                                        needs.</p>
+                                    <h3 class="title">Plastic Waste</h3>
+                                    <p>We begin with practical collecting methods, reviewing recyclability, sorting
+                                        dangerous plastic away & review the recyclability of collected plastics.</p>
                                 </div>
                             </div>
                         </div>
@@ -315,10 +317,9 @@
                             <div class="choose-us-img">
                                 <a href="choose-us.html"><img src="assets/images/choose-us3.jpg" alt=""></a>
                                 <div class="choose-us-content">
-                                    <h3 class="title">Multifunctional Technology</h3>
-                                    <p>Accelerate innovation with world-class tech teams We’ll match you to an entire
-                                        remote team of incredible freelance talent for all your software development
-                                        needs.</p>
+                                    <h3 class="title">Battery Waste</h3>
+                                    <p>We break down and recycle batteries using new equipment and permitted methods,
+                                        extracting precious materials while minimising environmental impact.</p>
                                 </div>
                             </div>
                         </div>
@@ -328,7 +329,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="more-choose-content text-center">
-                            <p>Learn more about <a href="choose-us.html">More reason <i
+                            <p>Learn more about <a href="choose-us.html">Recycling Services <i
                                         class="fas fa-long-arrow-alt-right"></i></a> </p>
                         </div>
                     </div>
@@ -349,7 +350,7 @@
                     <!-- Skill Left Start -->
                     <div class="skill-left">
                         <div class="section-title">
-                            <h2 class="title">Preparing for your success, we provide truly prominent IT solutions</h2>
+                            <h2 class="title">Values That Help us Achieve SUSTAINABILITY Through CIRCULARITY</h2>
                         </div>
                         <div class="experience-wrap">
                             <div class="experience">
@@ -357,9 +358,9 @@
                                 <span>Years of <br> experience</span>
                             </div>
                             <div class="experience-text">
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team of incredible freelance talent for all your software development needs.</p>
-                                <a class="learn-more" href="#">learn More About Us <i
+                                <p>2.12 billion tons of Waste is being generated every year around the world. Our
+                                    mission is to bridge the gap between the rapid pace of technological advancement and
+                                    the pressing need for responsible e-waste management.<i
                                         class="fas fa-long-arrow-alt-right"></i></a></a>
                             </div>
                         </div>
@@ -372,7 +373,7 @@
                         <div class="counter-bar">
                             <!-- Skill Item Start -->
                             <div class="skill-item">
-                                <span class="title">IT Managment</span>
+                                <span class="title">Sustaining Climate</span>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
                                         <div class="bar progress-line color-1" data-width="80">
@@ -384,7 +385,7 @@
                             <!-- Skill Item End -->
                             <!-- Skill Item Start -->
                             <div class="skill-item">
-                                <span class="title">Data Security</span>
+                                <span class="title">Motivating Society</span>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
                                         <div class="bar progress-line color-1" data-width="95">
@@ -396,7 +397,7 @@
                             <!-- Skill Item End -->
                             <!-- Skill Item Start -->
                             <div class="skill-item">
-                                <span class="title">Information Technology</span>
+                                <span class="title">Working Together</span>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
                                         <div class="bar progress-line color-1" data-width="80">
@@ -408,7 +409,7 @@
                             <!-- Skill Item End -->
                             <!-- Skill Item Start -->
                             <div class="skill-item">
-                                <span class="title">Technology Consultant</span>
+                                <span class="title">Making Impact</span>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
                                         <div class="bar progress-line color-1" data-width="90">
@@ -434,8 +435,8 @@
     <div class="container">
         <div class="case-study-wrap">
             <div class="section-title text-center">
-                <h3 class="sub-title">From our Case studies</h3>
-                <h2 class="title white">We delivered best solution</h2>
+                <h3 class="sub-title">Our Process to</h3>
+                <h2 class="title white">MANAGE & RECYCLE</h2>
             </div>
         </div>
     </div>
@@ -451,7 +452,7 @@
                         </div>
                         <div class="case-study-content">
                             <p class="sub-title">Database Security</p>
-                            <h3 class="title"><a href="#"><span>Structure</span> <br> <span>of Malnufication</span></a>
+                            <h3 class="title"><a href="#"><span>Collection</span></a>
                             </h3>
                             <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
                                 entire remote team of incredible freelance talent for all your </p>
@@ -491,6 +492,7 @@
                     </div>
                     <!-- Single Case Study End -->
                 </div>
+
             </div>
 
             <!-- Add Pagination -->
