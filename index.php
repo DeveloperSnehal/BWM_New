@@ -515,7 +515,7 @@
             </div>
             <div class="service-content-wrap">
                 <div class="row">
-                    <div class="col-xl-2 col-sm-6">
+                    <div class="col-xl-4 col-sm-6">
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
@@ -529,7 +529,7 @@
                         </div>
                         <!-- Service Item End -->
                     </div>
-                    <div class="col-xl-2 col-sm-6">
+                    <div class="col-xl-4 col-sm-6">
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
@@ -543,7 +543,7 @@
                         </div>
                         <!-- Service Item End -->
                     </div>
-                    <div class="col-xl-2 col-sm-6">
+                    <div class="col-xl-4 col-sm-6">
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
@@ -557,25 +557,28 @@
                         </div>
                         <!-- Service Item End -->
                     </div>
-                    <div class="col-xl-2 col-sm-6">
+                </div>
+
+                <div class="row">
+                    <div class="col-xl-4 col-sm-6">
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon20.png" alt="">
+                                <img src="assets/images/ser-icon17.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">Processing</a></h3>
+                                <h3 class="title"><a href="">Processing</a></h3>
                                 <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
                                     team .</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
                     </div>
-                    <div class="col-xl-2 col-sm-6">
+                    <div class="col-xl-4 col-sm-6">
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon20.png" alt="">
+                                <img src="assets/images/ser-icon18.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="service.html">Disposal</a></h3>
@@ -585,11 +588,11 @@
                         </div>
                         <!-- Service Item End -->
                     </div>
-                    <div class="col-xl-2 col-sm-6">
+                    <div class="col-xl-4 col-sm-6">
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon20.png" alt="">
+                                <img src="assets/images/ser-icon19.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="service.html">Recycling</a></h3>
@@ -606,6 +609,100 @@
     </div>
 </div>
 <!-- Service End -->
+
+<!-- About Start -->
+<div class="section techwix-about-section-02 section-padding">
+    <div class="container">
+        <!-- About Wrapper Start -->
+        <div class="about-wrap">
+            <div class="row">
+                <div class="col-lg-6">
+                    <!-- About Left Start -->
+                    <div class="about-02-left text-center">
+                        <div class="section-title">
+                            <h2 class="title">Waste Materials We Collect. Recycle & Dispose</h2>
+                        </div>
+                        <div class="about-author">
+                            <img src="assets/images/sign.png" alt="">
+                            <h3 class="name">Alen Morno sin</h3>
+                            <span class="designation">CEO, Techmax</span>
+                        </div>
+                    </div>
+                    <!-- About Left End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- About Right Start -->
+                    <div class="about-02-right">
+                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of
+                            incredible freelance talent for all your software development needs.</p>
+                        <div class="row">
+                            <div class="col-lg-6 about-list">
+                                <ul>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">All Electronic Wast</span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">Chemical waste
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">PET / PETE plastic
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">HDPE / PVC or V plastic
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">High-grade papers
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="col-lg-6 about-list">
+                                <ul>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">All Biomedical Waste</span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">Belts, Hoses, or Tires
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">All Construction Waste
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">Motor Oil, Hydraulic Oil, Brake Fluids
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="about-icon"><i class="fas fa-check"></i></span>
+                                        <span class="about-text">Lithium Ion, Alkaline Battery
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- About Right End -->
+                </div>
+            </div>
+        </div>
+        <!-- About Wrapper End -->
+    </div>
+</div>
+<!-- About End -->
 
 <!-- Testimonial Start  -->
 <div class="section techwix-testimonial-section-02 techwix-testimonial-section-03 section-padding-02">

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/mainlogo.jpg">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/favicon.png">
 
     <!-- Font-awesome -->
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
@@ -60,7 +60,7 @@
                 <div class="header-wrap">
 
                     <div class="header-logo">
-                        <a href="index.html"><img src="assets/images/logo/mainlogo.jpg" alt=""></a>
+                        <a href="index.html"><img src="assets/images/logo/Mainlogo.png" alt=""></a>
                     </div>
 
                     <div class="header-menu d-none d-lg-block">
