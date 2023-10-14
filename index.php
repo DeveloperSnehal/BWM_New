@@ -503,6 +503,110 @@
 </div>
 <!-- Case Study End -->
 
+<!-- Service Start -->
+<div class="section techwix-service-section-06 section-padding"
+    style="background-image: url(assets/images/bg/service-bg6.jpg);">
+    <div class="container">
+        <!-- Service Wrap Start -->
+        <div class="service-wrap">
+            <div class="section-title text-center">
+                <h3 class="sub-title color-3">Our Process to</h3>
+                <h2 class="title">MANAGE & RECYCLE</h2>
+            </div>
+            <div class="service-content-wrap">
+                <div class="row">
+                    <div class="col-xl-2 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/ser-icon17.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="">Collection</a></h3>
+                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
+                                    team .</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-2 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/ser-icon18.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="service.html">Data Destruction</a></h3>
+                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
+                                    team .</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-2 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/ser-icon19.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="service.html">Sorting</a></h3>
+                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
+                                    team .</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-2 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/ser-icon20.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="service.html">Processing</a></h3>
+                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
+                                    team .</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-2 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/ser-icon20.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="service.html">Disposal</a></h3>
+                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
+                                    team .</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                    <div class="col-xl-2 col-sm-6">
+                        <!-- Service Item Start -->
+                        <div class="service-item-05">
+                            <div class="service-img">
+                                <img src="assets/images/ser-icon20.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h3 class="title"><a href="service.html">Recycling</a></h3>
+                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
+                                    team .</p>
+                            </div>
+                        </div>
+                        <!-- Service Item End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service Wrap End -->
+    </div>
+</div>
+<!-- Service End -->
+
 <!-- Testimonial Start  -->
 <div class="section techwix-testimonial-section-02 techwix-testimonial-section-03 section-padding-02">
     <div class="container">
