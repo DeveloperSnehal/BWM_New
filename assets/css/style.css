@@ -9077,7 +9077,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-section-03 .footer-widget-wrap {
-  padding-top: 140px;
+  padding-top: 80px;
 }
 
 .footer-section-04 .footer-copyright-area {
@@ -9150,4 +9150,14 @@ textarea:-ms-input-placeholder {
 
 .progress-wrap-3 svg.progress-circle path {
   stroke: #ff5538;
+}
+
+/*-------- BWM Story Section-------- */
+.storysection .row{
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.storysection .text{
+  padding-top: 3%;
 }

@@ -60,7 +60,7 @@
                 <div class="header-wrap">
 
                     <div class="header-logo">
-                        <a href="index.html"><img src="assets/images/logo/Mainlogo.png" alt=""></a>
+                        <a href="index.php"><img src="assets/images/logo/Mainlogo.png" alt=""></a>
                     </div>
 
                     <div class="header-menu d-none d-lg-block">
@@ -71,9 +71,9 @@
                             <li>
                                 <a href="about.html">Who We Are</a>
                                 <ul class="sub-menu">
-                                    <li class="active"><a href="index.html">About US</a></li>
-                                    <li><a href="index-2.html">The BWM Story</a></li>
-                                    <li><a href="index-3.html">BWM History</a></li>
+                                    <li class="active"><a href="about.php">About US</a></li>
+                                    <li><a href="bwm-story.php">The BWM Story</a></li>
+                                    <li><a href="History.php">BWM History</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">What We Do</a>

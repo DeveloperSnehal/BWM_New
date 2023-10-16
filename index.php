@@ -831,15 +831,15 @@
                                             </div>
                                         </div>
                                         <div class="accordion-item">
-                                            <div class="accordion-header" id="headingThree">
+                                            <div class="accordion-header" id="headingFour">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseThree">
                                                     <span class="title">Can we get refund?</span>
                                                 </button>
                                             </div>
-                                            <div id="collapseThree" class="accordion-collapse collapse"
-                                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div id="collapseFour" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     Accelerate innovation with world-class tech teams We’ll match you to
                                                     an

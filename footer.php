@@ -9,7 +9,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!-- Footer Widget Start -->
                     <div class="footer-widget-about">
-                        <a class="footer-logo" href="index.html"><img src="assets/images/logo-white.png" alt="Logo"></a>
+                        <a class="footer-logo" href="index.php"><img src="assets/images/logo/Mainlogo.png" alt="Logo"></a>
                         <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of
                             incredible freelance talent.</p>
                         <div class="footer-social">
@@ -29,10 +29,14 @@
 
                         <div class="widget-link">
                             <ul class="link">
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">About Company</a></li>
-                                <li><a href="#">Payment Gatway</a></li>
-                                <li><a href="#">Policy</a></li>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Who We Are</a></li>
+                                <li><a href="#">Sustainability</a></li>
+                                <li><a href="#">CSR</a></li>
+                                <li><a href="#">Endeavours</a></li>
+                                <li><a href="#">Media</a></li>
+                                <li><a href="#">Career</a></li>
+                                <li><a href="#">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -45,10 +49,15 @@
 
                         <div class="widget-link">
                             <ul class="link">
-                                <li><a href="#">Data Security</a></li>
-                                <li><a href="#">IT Managment</a></li>
-                                <li><a href="#">Outsourcing</a></li>
-                                <li><a href="#">Networking</a></li>
+                                <li><a href="#">E-Waste</a></li>
+                                <li><a href="#">Plastic Waste</a></li>
+                                <li><a href="#">Biomedical Waste</a></li>
+                                <li><a href="#">Construction And Demolition (C&d) Waste</a></li>
+                                <li><a href="#">Hazardous Waste</a></li>
+                                <li><a href="#">Battery Waste</a></li>
+                                <li><a href="#">Oil Waste</a></li>
+                                <li><a href="#">Paper Waste</a></li>
+                                <li><a href="#">Rubber Waste</a></li>
                             </ul>
                         </div>
                     </div>
@@ -103,7 +112,7 @@
                     <div class="col-lg-12">
                         <!-- Footer Copyright Text Start -->
                         <div class="copyright-text text-center">
-                            <p>© Copyrights 2022 techwix All rights reserved. </p>
+                            <p>© Copyrights 2022 BWM All rights reserved. </p>
                         </div>
                         <!-- Footer Copyright Text End -->
                     </div>
