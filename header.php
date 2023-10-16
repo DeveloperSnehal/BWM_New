@@ -122,6 +122,20 @@
                         </ul>
                     </div>
 
+                    <!-- Header Meta Start -->
+                    <div class="header-meta">
+                        <!-- Header Toggle Start -->
+                        <div class="header-toggle d-lg-none">
+                            <button data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </button>
+                        </div>
+                        <!-- Header Toggle End -->
+                    </div>
+                    <!-- Header Meta End  -->
+
                 </div>
                 <!-- Header Wrap End  -->
 

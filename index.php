@@ -622,10 +622,13 @@
                         <div class="section-title">
                             <h2 class="title">Waste Materials We Collect. Recycle & Dispose</h2>
                         </div>
-                        <div class="about-author">
-                            <img src="assets/images/sign.png" alt="">
-                            <h3 class="name">Alen Morno sin</h3>
-                            <span class="designation">CEO, Techmax</span>
+                        <div class="about-author row">
+                            <div class="col-lg-6 hero-btn" data-aos="fade-up" data-aos-delay="1000">
+                                <a class="btn" href="#" style="padding: 0px 17px;">Request a Pickup</a>
+                            </div>
+                            <div class="col-lg-6 hero-btn" data-aos="fade-up" data-aos-delay="1000">
+                                <a class="btn" href="#" style="padding: 0px 17px;">Contact With US</a>
+                            </div>
                         </div>
                     </div>
                     <!-- About Left End -->
@@ -654,12 +657,12 @@
                                     </li>
                                     <li>
                                         <span class="about-icon"><i class="fas fa-check"></i></span>
-                                        <span class="about-text">HDPE / PVC or V plastic
+                                        <span class="about-text">High-grade papers
                                         </span>
                                     </li>
                                     <li>
                                         <span class="about-icon"><i class="fas fa-check"></i></span>
-                                        <span class="about-text">High-grade papers
+                                        <span class="about-text">HDPE / PVC or V plastic
                                         </span>
                                     </li>
                                 </ul>
@@ -704,77 +707,6 @@
 </div>
 <!-- About End -->
 
-<!-- Testimonial Start  -->
-<div class="section techwix-testimonial-section-02 techwix-testimonial-section-03 section-padding-02">
-    <div class="container">
-        <!-- Testimonial Wrap Start  -->
-        <div class="testimonial-wrap-02">
-            <div class="section-title text-center">
-                <h3 class="sub-title">Testimonial</h3>
-                <h2 class="title">20k+ satisfied clients worldwide</h2>
-            </div>
-            <div class="testimonial-content-wrap-02">
-                <div class="swiper-container testimonial-02-active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <!--  Single Testimonial Start  -->
-                            <div class="single-testimonial-02">
-                                <div class="testimonial-thumb">
-                                    <img src="assets/images/testi-3.jpg" alt="">
-                                </div>
-                                <div class="testimonial-content">
-                                    <img src="assets/images/testi-icon.png" alt="">
-                                    <p>Accelerate innovation with world-class tech teams Beyond more stoic this along
-                                        goodness hey this this wow manatee </p>
-                                    <span class="name">Mike Holder </span>
-                                    <span class="designation"> / CEO, Harlond inc</span>
-                                </div>
-                            </div>
-                            <!--  Single Testimonial End  -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!--  Single Testimonial Start  -->
-                            <div class="single-testimonial-02">
-                                <div class="testimonial-thumb">
-                                    <img src="assets/images/testi-4.jpg" alt="">
-                                </div>
-                                <div class="testimonial-content">
-                                    <img src="assets/images/testi-icon.png" alt="">
-                                    <p>Accelerate innovation with world-class tech teams Beyond more stoic this along
-                                        goodness hey this this wow manatee </p>
-                                    <span class="name">Mike Fermalin </span>
-                                    <span class="designation"> / CEO, Harlond inc</span>
-                                </div>
-                            </div>
-                            <!--  Single Testimonial End  -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!--  Single Testimonial Start  -->
-                            <div class="single-testimonial-02">
-                                <div class="testimonial-thumb">
-                                    <img src="assets/images/testi-3.jpg" alt="">
-                                </div>
-                                <div class="testimonial-content">
-                                    <img src="assets/images/testi-icon.png" alt="">
-                                    <p>Accelerate innovation with world-class tech teams Beyond more stoic this along
-                                        goodness hey this this wow manatee </p>
-                                    <span class="name">Mike Holder </span>
-                                    <span class="designation"> / CEO, Harlond inc</span>
-                                </div>
-                            </div>
-                            <!--  Single Testimonial End  -->
-                        </div>
-                    </div>
-
-                    <!-- Add Pagination -->
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-        </div>
-        <!-- Testimonial Wrap End  -->
-    </div>
-</div>
-<!-- Testimonial End  -->
 
 <!-- Brand Logo Start -->
 <div class="section techwix-brand-section techwix-brand-section-03">
@@ -826,233 +758,163 @@
 </div>
 <!-- Brand Logo End -->
 
-<!-- Team Start -->
-<div class="section techwix-team-section section-padding-02">
-    <div class="container">
-        <!-- Team Wrap Start -->
-        <div class="team-wrap">
-            <div class="section-title text-center">
-                <h3 class="sub-title">Our expert team </h3>
-                <h2 class="title"> We have world expert team</h2>
-            </div>
-            <!-- Team Content Wrap Start -->
-            <div class="team-content-wrap">
-                <div class="swiper-container team-active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-1.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Andrew <br> Max Fetcher</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-2.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Arnold <br> human</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-3.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Mike <br> Holder</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                        <div class="swiper-slide">
-                            <!-- Single Team Start -->
-                            <div class="single-team">
-                                <div class="team-img">
-                                    <a href="team.html"><img src="assets/images/team/team-4.jpg" alt=""></a>
-                                </div>
-                                <div class="team-content">
-                                    <h3 class="name"><a href="team.html">Joakim <br> Ken</a></h3>
-                                    <span class="designation">CEO, techwix</span>
-                                    <div class="team-social">
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Team End -->
-                        </div>
-                    </div>
 
-                    <!-- Add Pagination -->
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-            <!-- Team Content Wrap End -->
-        </div>
-        <!-- Team Wrap End -->
-    </div>
-</div>
-<!-- Team End -->
-
-<!-- Blog Start -->
-<div class="section techwix-blog-section section-padding-02">
+<!-- Contact Start -->
+<div class="section techwix-contact-section section-padding" style="padding-top: 120px; padding-bottom: 80px;">
     <div class="container">
-        <!-- Section Title Start -->
-        <div class="section-title text-center">
-            <h4 class="sub-title">latest Blog</h4>
-            <h2 class="title">From the news room</h2>
-        </div>
-        <!-- Section Title End -->
-        <div class="techwix-blog-wrap">
+        <!-- Contact Wrap Start -->
+        <div class="contact-wrap" style="background-image: url(assets/images/shape/contact-shape.png);">
             <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blog-image">
-                            <a href="blog-details.html"><img src="assets/images/blog/blog-1.jpg" alt=""></a>
-                            <div class="top-meta">
-                                <span class="date"><span>08</span>Aug</span>
-                            </div>
+                <div class="col-xxl-5 col-lg-6">
+                    <!-- Contact Info Start -->
+                    <div class="contact-info">
+                        <div class="section-title">
+                            <h2 class="title">Frequently Asked Questions</h2>
                         </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
-                                <span><i class="far fa-comments"></i> 0 Comments</span>
+                        <div class="section techwix-choose-us-section-02 section-padding-02" style="padding-top:20px;">
+                            <!-- Choose Us Right Start -->
+                            <div class="choose-us-right">
+                                <!-- Faq Accordion Start -->
+                                <div class="faq-accordion">
+                                    <div class="accordion" id="accordionExample">
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingOne">
+                                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#collapseOne" aria-expanded="true"
+                                                    aria-controls="collapseOne">
+                                                    <span class="title">How Long it takes finished projects ?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                                aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    Accelerate innovation with world-class tech teams We’ll match you to
+                                                    an
+                                                    entire remote team of incredible freelance talent for all your
+                                                    software.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingTwo">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                    <span class="title">Support & Policy rules?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                                aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    We can help you channel your potential implementing your idea. We
+                                                    take
+                                                    care of all your needs, crafting specific and targeted solutions.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingThree">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    <span class="title">Can we get refund?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseThree" class="accordion-collapse collapse"
+                                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    Accelerate innovation with world-class tech teams We’ll match you to
+                                                    an
+                                                    entire remote team of incredible freelance talent for all your
+                                                    software.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-header" id="headingThree">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    <span class="title">Can we get refund?</span>
+                                                </button>
+                                            </div>
+                                            <div id="collapseThree" class="accordion-collapse collapse"
+                                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    Accelerate innovation with world-class tech teams We’ll match you to
+                                                    an
+                                                    entire remote team of incredible freelance talent for all your
+                                                    software.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Faq Accordion End -->
                             </div>
-                            <h3 class="title"><a href="blog-details.html">How to become a successful businessman </a>
-                            </h3>
-                            <div class="blog-btn">
-                                <a class="blog-btn-link" href="blog-details.html">Read Full <i
-                                        class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
+                            <!-- Choose Us Right End -->
                         </div>
                     </div>
-                    <!-- Single Blog End -->
+                    <!-- Contact Info End -->
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blog-image">
-                            <a href="blog-details.html"><img src="assets/images/blog/blog-2.jpg" alt=""></a>
-                            <div class="top-meta">
-                                <span class="date"><span>10</span>Aug</span>
+                <div class="col-xxl-7 col-lg-6">
+                    <!-- Contact Form Start -->
+                    <div class="contact-form">
+                        <div class="contact-form-wrap">
+                            <div class="heading-wrap text-center">
+                                <span class="sub-title">Leave us massage</span>
+                                <h3 class="title">How May We Help You!</h3>
                             </div>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
-                                <span><i class="far fa-comments"></i> 0 Comments</span>
-                            </div>
-                            <h3 class="title"><a href="blog-details.html">Who Needs Extract Value From Data? </a></h3>
-                            <div class="blog-btn">
-                                <a class="blog-btn-link" href="blog-details.html">Read Full <i
-                                        class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
+                            <form action="#">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <input type="text" placeholder="Name *">
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <input type="email" placeholder="Email *">
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <input type="text" placeholder="Subject *">
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <!-- Single Form Start -->
+                                        <div class="single-form">
+                                            <textarea placeholder="Write A Message"></textarea>
+                                        </div>
+                                        <!-- Single Form End -->
+                                    </div>
+                                    <div class="col-sm-12">
+                                        <!--  Single Form Start -->
+                                        <div class="form-btn">
+                                            <button class="btn btn-3" type="submit">Send Message</button>
+                                        </div>
+                                        <!--  Single Form End -->
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
-                    <!-- Single Blog End -->
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <!-- Single Blog Start -->
-                    <div class="single-blog">
-                        <div class="blog-image">
-                            <a href="blog-details.html"><img src="assets/images/blog/blog-3.jpg" alt=""></a>
-                            <div class="top-meta">
-                                <span class="date"><span>12</span>Aug</span>
-                            </div>
-                        </div>
-                        <div class="blog-content">
-                            <div class="blog-meta">
-                                <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
-                                <span><i class="far fa-comments"></i> 0 Comments</span>
-                            </div>
-                            <h3 class="title"><a href="blog-details.html">Easy and Most Powerful Server and
-                                    Platform.</a></h3>
-                            <div class="blog-btn">
-                                <a class="blog-btn-link" href="blog-details.html">Read Full <i
-                                        class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Single Blog End -->
+                    <!-- Contact Form End -->
                 </div>
             </div>
         </div>
+        <!-- Contact Wrap End -->
     </div>
 </div>
-<!-- Blog End -->
+<!-- Contact End -->
 
-<!-- Cta Start -->
-<div class="section techwix-cta-section-02">
-    <div class="container">
-        <!-- Cta Wrap Start -->
-        <div class="cta-wrap" style="background-image: url(assets/images/bg/cta-bg.jpg);">
-            <div class="row align-items-center">
-                <div class="col-xl-9 col-lg-8">
-                    <!-- Cta Content Start -->
-                    <div class="cta-content">
-                        <div class="cta-icon">
-                            <img src="assets/images/cta-icon2.png" alt="">
-                        </div>
-                        <p>We’re Delivering the best customer Experience</p>
-                    </div>
-                    <!-- Cta Content End -->
-                </div>
-                <div class="col-xl-3 col-lg-4">
-                    <!-- Cta Button Start -->
-                    <div class="cta-btn">
-                        <a class="btn btn-white" href="#">+44 920 090 505</a>
-                    </div>
-                    <!-- Cta Button End -->
-                </div>
-            </div>
-        </div>
-        <!-- Cta Wrap End -->
-    </div>
-</div>
-<!-- Cta End -->
 
 
 <?php include('footer.php'); ?>

@@ -194,7 +194,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*--Section Spacing--*/
 .section-padding {
   padding-top: 50px;
-  padding-bottom: 120px;
+  padding-bottom: 30px;
 }
 
 @media only screen and (max-width: 1199px) {
@@ -612,7 +612,7 @@ textarea:-ms-input-placeholder {
   line-height: 45px;
   font-size: 14px;
   padding: 0 40px;
-  background: #ff5538;
+  background: #086ad8;
   color: #ffffff;
 }
 
@@ -6063,7 +6063,7 @@ textarea:-ms-input-placeholder {
   position: absolute;
   left: 0;
   top: 50%;
-  background: #ff5538;
+  background: #086ad8;
   height: 150px;
   width: 4px;
   transform: translateY(-50%);
@@ -6084,7 +6084,7 @@ textarea:-ms-input-placeholder {
 
 .techwix-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-icon i {
   font-size: 50px;
-  color: #ff5538;
+  color: #086ad8;
 }
 
 @media only screen and (max-width: 575px) {
@@ -6155,7 +6155,7 @@ textarea:-ms-input-placeholder {
   font-family: "Barlow", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #ff5538;
+  color: #086ad8;
 }
 
 .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .title {
@@ -6669,12 +6669,12 @@ textarea:-ms-input-placeholder {
 }
 
 .techwix-choose-us-section-02 {
-  background: #f8f8f8;
+  /* background: #f8f8f8; */
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding-bottom: 400px;
+  /* padding-bottom: 400px; */
   z-index: 1;
 }
 
