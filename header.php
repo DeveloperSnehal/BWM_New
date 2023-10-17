@@ -66,10 +66,10 @@
                     <div class="header-menu d-none d-lg-block">
                         <ul class="main-menu">
                             <li class="active-menu">
-                                <a href="index.html">Home</a>
+                                <a href="index.php">Home</a>
                             </li>
                             <li>
-                                <a href="about.html">Who We Are</a>
+                                <a href="#">Who We Are</a>
                                 <ul class="sub-menu">
                                     <li class="active"><a href="about.php">About US</a></li>
                                     <li><a href="bwm-story.php">The BWM Story</a></li>
@@ -90,8 +90,8 @@
                                     <li><a href="Rubber_Waste.php">Rubber Waste</a></li>
                                 </ul>
                             </li>
-                            <li><a href="pricing.html">Sustainability</a></li>
-                            <li><a href="pricing.html">CSR</a></li>
+                            <li><a href="Sustainability.php">Sustainability</a></li>
+                            <li><a href="CSR.php">CSR</a></li>
                             <li><a href="#">What We Do</a>
                                 <ul class="sub-menu">
                                     <li><a href="team.html">Recycling</a></li>

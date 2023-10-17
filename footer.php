@@ -29,10 +29,10 @@
 
                         <div class="widget-link">
                             <ul class="link">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Who We Are</a></li>
-                                <li><a href="#">Sustainability</a></li>
-                                <li><a href="#">CSR</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about.php">Who We Are</a></li>
+                                <li><a href="Sustainability.php">Sustainability</a></li>
+                                <li><a href="CSR.php">CSR</a></li>
                                 <li><a href="#">Endeavours</a></li>
                                 <li><a href="#">Media</a></li>
                                 <li><a href="#">Career</a></li>
@@ -49,15 +49,16 @@
 
                         <div class="widget-link">
                             <ul class="link">
-                                <li><a href="#">E-Waste</a></li>
-                                <li><a href="#">Plastic Waste</a></li>
-                                <li><a href="#">Biomedical Waste</a></li>
-                                <li><a href="#">Construction And Demolition (C&d) Waste</a></li>
-                                <li><a href="#">Hazardous Waste</a></li>
-                                <li><a href="#">Battery Waste</a></li>
-                                <li><a href="#">Oil Waste</a></li>
-                                <li><a href="#">Paper Waste</a></li>
-                                <li><a href="#">Rubber Waste</a></li>
+                                <li><a href="Electronic_Waste.php">E-Waste</a></li>
+                                <li><a href="IT_Waste.php">IT-Waste</a></li>
+                                <li><a href="Plastic_Waste.php">Plastic Waste</a></li>
+                                <li><a href="Biomedical_Waste.php">Biomedical Waste</a></li>
+                                <li><a href="Construction_and_Demolition_Waste.php">Construction And Demolition (C&d) Waste</a></li>
+                                <li><a href="Hazardous_Waste.php">Hazardous Waste</a></li>
+                                <li><a href="Battery_Waste.php">Battery Waste</a></li>
+                                <li><a href="Oil_Waste.php">Oil Waste</a></li>
+                                <li><a href="Paper_Waste.php">Paper Waste</a></li>
+                                <li><a href="Rubber_Waste.php">Rubber Waste</a></li>
                             </ul>
                         </div>
                     </div>
