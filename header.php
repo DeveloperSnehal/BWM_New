@@ -78,15 +78,16 @@
                             </li>
                             <li><a href="#">What We Do</a>
                                 <ul class="sub-menu">
-                                    <li><a href="team.html">E-Waste</a></li>
-                                    <li><a href="service.html">Plastic Waste</a></li>
-                                    <li><a href="choose-us.html">Biomedical Waste</a></li>
-                                    <li><a href="testimonial.html">Construction and Demolition Waste</a></li>
-                                    <li><a href="pricing.html">Hazardous Waste</a></li>
-                                    <li><a href="login-register.html">Battery Waste</a></li>
-                                    <li><a href="pricing.html">Oil Waste</a></li>
-                                    <li><a href="login-register.html">Paper Waste</a></li>
-                                    <li><a href="pricing.html">Rubber Waste</a></li>
+                                    <li><a href="Electronic_Waste.php">Electronic Waste</a></li>
+                                    <li><a href="IT_Waste.php">IT Waste</a></li>
+                                    <li><a href="Plastic_Waste.php">Plastic Waste</a></li>
+                                    <li><a href="Biomedical_Waste.php">Biomedical Waste</a></li>
+                                    <li><a href="Construction_and_Demolition_Waste.php">Construction and Demolition Waste</a></li>
+                                    <li><a href="Hazardous_Waste.php">Hazardous Waste</a></li>
+                                    <li><a href="Battery_Waste.php">Battery Waste</a></li>
+                                    <li><a href="Oil_Waste.php">Oil Waste</a></li>
+                                    <li><a href="Paper_Waste.php">Paper Waste</a></li>
+                                    <li><a href="Rubber_Waste.php">Rubber Waste</a></li>
                                 </ul>
                             </li>
                             <li><a href="pricing.html">Sustainability</a></li>
@@ -172,15 +173,16 @@
                         </li>
                         <li><a href="#">What We Do</a>
                             <ul class="sub-menu">
-                                <li><a href="team.html">E-Waste</a></li>
-                                <li><a href="service.html">Plastic Waste</a></li>
-                                <li><a href="choose-us.html">Biomedical Waste</a></li>
-                                <li><a href="testimonial.html">Construction and Demolition Waste</a></li>
-                                <li><a href="pricing.html">Hazardous Waste</a></li>
-                                <li><a href="login-register.html">Battery Waste</a></li>
-                                <li><a href="pricing.html">Oil Waste</a></li>
-                                <li><a href="login-register.html">Paper Waste</a></li>
-                                <li><a href="pricing.html">Rubber Waste</a></li>
+                                <li><a href="Electronic_Waste.php">Electronic Waste</a></li>
+                                <li><a href="IT_Waste.php">IT Waste</a></li>
+                                <li><a href="Plastic_Waste.php">Plastic Waste</a></li>
+                                <li><a href="Biomedical_Waste.php">Biomedical Waste</a></li>
+                                <li><a href="Construction_and_Demolition_Waste.php">Construction and Demolition Waste</a></li>
+                                <li><a href="Hazardous_Waste.php">Hazardous Waste</a></li>
+                                <li><a href="Battery_Waste.php">Battery Waste</a></li>
+                                <li><a href="Oil_Waste.php">Oil Waste</a></li>
+                                <li><a href="Paper_Waste.php">Paper Waste</a></li>
+                                <li><a href="Rubber_Waste.php">Rubber Waste</a></li>
                             </ul>
                         </li>
                         <li><a href="pricing.html">Sustainability</a></li>

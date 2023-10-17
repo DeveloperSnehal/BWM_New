@@ -67,19 +67,42 @@
 </div>
 <!-- Page Banner End -->
 
-<div style="background-image: url(assets/images/bg/testi-bg4.jpg); margin-top:60%; padding: 5%; text-align: center;">
+<div style="background-image: url(assets/images/bg/big-data.png); margin-top:60%; padding: 2%; text-align: center;">
     <div class="row">
-        <div class="col-lg-8"></div>
-        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <div class="image">
+                <img src="assets/images/testi-4.jpg" alt="" style="border-radius: 50%;">
+                <h4>john doe(Founder)</h4>
+                <h5>CEO of BWM</h5>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <p class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived not only five centuries, but also
+                the leap into electronic typesetting, remaining essentially unchanged.</p>
+        </div>
     </div>
 </div>
 
-<div style="background-image: url(assets/images/bg/testi-bg4.jpg); margin-top:5%; padding: 5%; text-align: center;">
+<div style="background-image: url(assets/images/bg/big-data.png); margin-top:5%; padding: 2%; text-align: center;">
     <div class="row">
-        <div class="col-lg-8"></div>
-        <div class="col-lg-4"></div>
+        <div class="col-lg-8">
+            <p class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book. It has survived not only five centuries, but also
+                the leap into electronic typesetting, remaining essentially unchanged.</p>
+        </div>
+        <div class="col-lg-4">
+            <div class="image">
+                <img src="assets/images/testi-4.jpg" alt="" style="border-radius: 50%;">
+                <h4>john doe(Founder)</h4>
+                <h5>CEO of BWM</h5>
+            </div>
+        </div>
     </div>
 </div>
+
 
 <!-- Story history-1 Start -->
 <div class="storysection">
