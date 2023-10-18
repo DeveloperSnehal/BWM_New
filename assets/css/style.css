@@ -733,7 +733,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-logo a img {
-  width: 150px;
+  width: 100px;
 }
 
 @media only screen and (max-width: 1199px) {
