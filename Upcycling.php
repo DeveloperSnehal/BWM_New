@@ -53,10 +53,10 @@
                 <div class="col-lg-12">
                     <!-- Page Banner Content Start -->
                     <div class="page-banner text-center">
-                        <h2 class="title">Recycling</h2>
+                        <h2 class="title">Upcycling</h2>
                         <ul class="breadcrumb justify-content-center">
                             <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Recycling</li>
+                            <li class="breadcrumb-item active" aria-current="page">Upcycling</li>
                         </ul>
                     </div>
                     <!-- Page Banner Content End -->

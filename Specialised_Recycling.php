@@ -92,7 +92,6 @@
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
                     discarded electronics, extend their usability, and promote a sustainable future, guided by
                     unwavering devotion.</p>
-                <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
     </div>
@@ -114,7 +113,6 @@
                     increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
                     expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
                     provided.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -145,7 +143,6 @@
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
                     discarded electronics, extend their usability, and promote a sustainable future, guided by
                     unwavering devotion.</p>
-                <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
     </div>
@@ -167,7 +164,6 @@
                     increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
                     expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
                     provided.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -198,7 +194,6 @@
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
                     discarded electronics, extend their usability, and promote a sustainable future, guided by
                     unwavering devotion.</p>
-                <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
     </div>
