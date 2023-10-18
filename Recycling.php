@@ -95,7 +95,7 @@
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
                     discarded electronics, extend their usability, and promote a sustainable future, guided by
                     unwavering devotion.</p>
-                <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <a class="btn" href="E_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
     </div>
@@ -117,7 +117,7 @@
                     increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
                     expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
                     provided.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                    <a class="btn" href="IT_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -139,91 +139,91 @@
                     <img src="assets/images/about-sm2.jpg" alt="">
                 </div>
             </div>
+            <div class="col-lg-7">
+                <div class="section-title">
+                    <h2 class="title">Plastic Waste Recycling</h2>
+                </div>
+                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
+                    caught the attention of [name significant investors, investment groups, or grant bodies] in
+                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
+                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
+                    and the critical support we received, we are reminded of the challenges that we faced, the
+                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
+                    journey, we are thankful for the early days that formed our path and the supporters that powered our
+                    purpose.</p>
+                    <a class="btn" href="Plastic_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Story Blog-3 End -->
+
+<!-- Story Blog-2 Start -->
+<div class="storysection" style="background-image: url(assets/images/bg/choose-us.jpg);">
+    <div class="container">
+        <div class="row">
             <div class="col-lg-7">
                 <div class="section-title">
                     <h2 class="title">Biomedical Waste Recycling</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
+                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
+                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
+                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
+                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
+                    provided.</p>
+                    <a class="btn" href="Biomedical_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+            </div>
+            <div class="col-lg-5">
+                <div class="image">
+                    <img src="assets/images/about-sm2.jpg" alt="">
+                </div>
             </div>
         </div>
     </div>
 </div>
-<!-- Story Blog-3 End -->
+<!-- Story Blog-2 End -->
 
-<!-- Story Blog-2 Start -->
-<div class="storysection" style="background-image: url(assets/images/bg/choose-us.jpg);">
+
+<!-- Story Blog-3 Start -->
+<div class="storysection">
     <div class="container">
         <div class="row">
+            <div class="col-lg-5">
+                <div class="image">
+                    <img src="assets/images/about-sm2.jpg" alt="">
+                </div>
+            </div>
             <div class="col-lg-7">
                 <div class="section-title">
                     <h2 class="title">Hazardous Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
-                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
-                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
-                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
-                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
-                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
-                    provided.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
-            </div>
-            <div class="col-lg-5">
-                <div class="image">
-                    <img src="assets/images/about-sm2.jpg" alt="">
-                </div>
+                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
+                    caught the attention of [name significant investors, investment groups, or grant bodies] in
+                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
+                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
+                    and the critical support we received, we are reminded of the challenges that we faced, the
+                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
+                    journey, we are thankful for the early days that formed our path and the supporters that powered our
+                    purpose.</p>
+                    <a class="btn" href="Hazardous_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
     </div>
 </div>
-<!-- Story Blog-2 End -->
+<!-- Story Blog-3 End -->
 
-
-<!-- Story Blog-3 Start -->
-<div class="storysection">
+<!-- Story Blog-2 Start -->
+<div class="storysection" style="background-image: url(assets/images/bg/choose-us.jpg);">
     <div class="container">
         <div class="row">
-            <div class="col-lg-5">
-                <div class="image">
-                    <img src="assets/images/about-sm2.jpg" alt="">
-                </div>
-            </div>
             <div class="col-lg-7">
                 <div class="section-title">
                     <h2 class="title">Battery Waste Recycling</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Story Blog-3 End -->
-
-<!-- Story Blog-2 Start -->
-<div class="storysection" style="background-image: url(assets/images/bg/choose-us.jpg);">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <div class="section-title">
-                    <h2 class="title">Oil Waste Recycling</h2>
-                </div>
                 <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
@@ -231,7 +231,7 @@
                     increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
                     expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
                     provided.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                    <a class="btn" href="Battery_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -253,34 +253,34 @@
                     <img src="assets/images/about-sm2.jpg" alt="">
                 </div>
             </div>
+            <div class="col-lg-7">
+                <div class="section-title">
+                    <h2 class="title">Oil Waste Recycling </h2>
+                </div>
+                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
+                    caught the attention of [name significant investors, investment groups, or grant bodies] in
+                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
+                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
+                    and the critical support we received, we are reminded of the challenges that we faced, the
+                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
+                    journey, we are thankful for the early days that formed our path and the supporters that powered our
+                    purpose.</p>
+                    <a class="btn" href="Oil_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Story Blog-3 End -->
+
+<!-- Story Blog-2 Start -->
+<div class="storysection" style="background-image: url(assets/images/bg/choose-us.jpg);">
+    <div class="container">
+        <div class="row">
             <div class="col-lg-7">
                 <div class="section-title">
                     <h2 class="title">Paper Waste Recycling</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Story Blog-3 End -->
-
-<!-- Story Blog-2 Start -->
-<div class="storysection" style="background-image: url(assets/images/bg/choose-us.jpg);">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <div class="section-title">
-                    <h2 class="title">Rubber Waste Recycling</h2>
-                </div>
                 <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
@@ -288,7 +288,7 @@
                     increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
                     expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
                     provided.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                    <a class="btn" href="Paper_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -312,7 +312,7 @@
             </div>
             <div class="col-lg-7">
                 <div class="section-title">
-                    <h2 class="title">Construction And Demolition Waste Recycling</h2>
+                    <h2 class="title">Rubber Waste Recycling</h2>
                 </div>
                 <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
                     on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
@@ -323,11 +323,38 @@
                     milestones we reached, and the many people who believed in BWM's vision. As we continue on our
                     journey, we are thankful for the early days that formed our path and the supporters that powered our
                     purpose.</p>
-                    <a class="btn" href="#" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                    <a class="btn" href="Rubber_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
     </div>
 </div>
 <!-- Story Blog-3 End -->
 
+
+<!-- Story Blog-2 Start -->
+<div class="storysection" style="background-image: url(assets/images/bg/choose-us.jpg); margin-bottom:5%;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="section-title">
+                    <h2 class="title">Construction And Demolition Waste Recycling</h2>
+                </div>
+                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
+                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
+                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
+                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
+                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
+                    provided.</p>
+                    <a class="btn" href="Construction_and_Demolition_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+            </div>
+            <div class="col-lg-5">
+                <div class="image">
+                    <img src="assets/images/about-sm2.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Story Blog-2 End -->
 <?php include('footer.php'); ?>
