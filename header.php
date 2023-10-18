@@ -94,16 +94,16 @@
                             <li><a href="CSR.php">CSR</a></li>
                             <li><a href="#">What We Do</a>
                                 <ul class="sub-menu">
-                                    <li><a href="team.html">Recycling</a></li>
-                                    <li><a href="service.html">Upcycling</a></li>
-                                    <li><a href="choose-us.html">Li-ion Recycling</a></li>
-                                    <li><a href="testimonial.html">Specialised Recycling</a></li>
-                                    <li><a href="pricing.html">EPR Compliance</a></li>
-                                    <li><a href="login-register.html">Data Security</a></li>
-                                    <li><a href="pricing.html">Reverse Logistics</a></li>
-                                    <li><a href="login-register.html">Compliances</a></li>
-                                    <li><a href="pricing.html">Carbon Footprint Reduction Services</a></li>
-                                    <li><a href="pricing.html">Zero Waste To Landfill Events</a></li>
+                                    <li><a href="Recycling.php">Recycling</a></li>
+                                    <li><a href="Upcycling.php">Upcycling</a></li>
+                                    <li><a href="Li-ion_Recycling.php">Li-ion Recycling</a></li>
+                                    <li><a href="Specialised_Recycling.php">Specialised Recycling</a></li>
+                                    <li><a href="epr-compliance.php">EPR Compliance</a></li>
+                                    <li><a href="Data_Security.php">Data Security</a></li>
+                                    <li><a href="Reverse-Logistics.php">Reverse Logistics</a></li>
+                                    <li><a href="Compliances-and-Consulting.php">Compliances</a></li>
+                                    <li><a href="Carbon_Footprint.php">Carbon Footprint Reduction Services</a></li>
+                                    <li><a href="zero-waste.php">Zero Waste To Landfill Events</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">Media</a>
@@ -189,16 +189,16 @@
                         <li><a href="pricing.html">CSR</a></li>
                         <li><a href="#">What We Do</a>
                             <ul class="sub-menu">
-                                <li><a href="team.html">Recycling</a></li>
-                                <li><a href="service.html">Upcycling</a></li>
-                                <li><a href="choose-us.html">Li-ion Recycling</a></li>
-                                <li><a href="testimonial.html">Specialised Recycling</a></li>
-                                <li><a href="pricing.html">EPR Compliance</a></li>
-                                <li><a href="login-register.html">Data Security</a></li>
-                                <li><a href="pricing.html">Reverse Logistics</a></li>
-                                <li><a href="login-register.html">Compliances</a></li>
-                                <li><a href="pricing.html">Carbon Footprint Reduction Services</a></li>
-                                <li><a href="pricing.html">Zero Waste To Landfill Events</a></li>
+                                <li><a href="Recycling.php">Recycling</a></li>
+                                <li><a href="Upcycling.php">Upcycling</a></li>
+                                <li><a href="Li-ion_Recycling.php">Li-ion Recycling</a></li>
+                                <li><a href="Specialised_Recycling.php">Specialised Recycling</a></li>
+                                <li><a href="epr-compliance.php">EPR Compliance</a></li>
+                                <li><a href="Data_Security.php">Data Security</a></li>
+                                <li><a href="Reverse-Logistics.php">Reverse Logistics</a></li>
+                                <li><a href="Compliances-and-Consulting.php">Compliances</a></li>
+                                <li><a href="Carbon_Footprint.php">Carbon Footprint Reduction Services</a></li>
+                                <li><a href="zero-waste.php">Zero Waste To Landfill Events</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Media</a>
