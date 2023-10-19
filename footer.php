@@ -33,10 +33,11 @@
                                 <li><a href="about.php">Who We Are</a></li>
                                 <li><a href="Sustainability.php">Sustainability</a></li>
                                 <li><a href="CSR.php">CSR</a></li>
-                                <li><a href="#">Endeavours</a></li>
-                                <li><a href="#">Media</a></li>
-                                <li><a href="#">Career</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="Recycling.php">Endeavours</a></li>
+                                <li><a href="blog.php">Blog</a></li>
+                                <li><a href="Our_Events.php">Events</a></li>
+                                <li><a href="Work_at_BWM.php">Career</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>

@@ -61,7 +61,7 @@
                         Service Provider for companies and businesses worldwide
                     </p>
                     <div class="hero-btn" data-aos="fade-up" data-aos-delay="1000">
-                        <a class="btn" href="about.html">Read More</a>
+                        <a class="btn" href="about.php">Read More</a>
                     </div>
                 </div>
                 <!-- Hero Content End -->
@@ -87,9 +87,6 @@
                             <h3 class="title"><a href="#">Certified Recycler</a></h3>
                             <p>We are authorized by the Central Pollution Control Board, Ministry of Environment, Forest
                                 and Climate Change, Govt.</p>
-                            <div class="read-more">
-                                <a href="#"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -104,9 +101,6 @@
                             <h3 class="title"><a href="service.html">Easy Pickup</a></h3>
                             <p>We are a Pan India company, hence we can offer hassle-free and easy pickup services from
                                 any of your preferred and convenient location.</p>
-                            <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -121,9 +115,6 @@
                             <h3 class="title"><a href="service.html">Eco-friendly Procedure</a></h3>
                             <p>Our process of managing and recycling of waste generated from industries is completely
                                 eco-friendly & environment conscious.</p>
-                            <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -138,9 +129,6 @@
                             <h3 class="title"><a href="service.html">100% Compliance</a></h3>
                             <p>We strictly follow all the regulations set by the Government Bodies to offer stress-free
                                 recycling with regards to Government policies.</p>
-                            <div class="read-more">
-                                <a href="service.html"><i class="fas fa-plus"></i> Read More</a>
-                            </div>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -188,10 +176,6 @@
                 <div class="col-lg-6">
                     <!-- About Image Wrap Start -->
                     <div class="about-img-wrap">
-                        <div class="play-btn-02">
-                            <a class="popup-video" href="https://www.youtube.com/watch?time_continue=3&v=_X0eYtY8T_U"><i
-                                    class="fas fa-play"></i></a>
-                        </div>
                         <div class="about-img about-img-big">
                             <img src="assets/images/about-big2.jpg" alt="">
                         </div>
@@ -329,7 +313,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="more-choose-content text-center">
-                            <p>Learn more about <a href="choose-us.html">Recycling Services <i
+                            <p>Learn more about <a href="service.php">Recycling Services <i
                                         class="fas fa-long-arrow-alt-right"></i></a> </p>
                         </div>
                     </div>
@@ -435,7 +419,7 @@
     <div class="container">
         <div class="case-study-wrap">
             <div class="section-title text-center">
-                <h3 class="sub-title">Our Process to</h3>
+                <h3 class="sub-title">Our Certifications to</h3>
                 <h2 class="title white">MANAGE & RECYCLE</h2>
             </div>
         </div>
@@ -451,11 +435,12 @@
                             <a href="#"><img src="assets/images/case-4.jpg" alt=""></a>
                         </div>
                         <div class="case-study-content">
-                            <p class="sub-title">Database Security</p>
+                            <p class="sub-title">Certifications from</p>
                             <h3 class="title"><a href="#"><span>Collection</span></a>
                             </h3>
-                            <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                entire remote team of incredible freelance talent for all your </p>
+                            <p class="text">E-Waste Management Rules, 2016
+                                Permission granted for the collection, transportation, refurbishing, dismantling,
+                                recycling, treatment and disposal of e-waste.</p>
                         </div>
                     </div>
                     <!-- Single Case Study End -->
@@ -467,11 +452,12 @@
                             <a href="#"><img src="assets/images/case-5.jpg" alt=""></a>
                         </div>
                         <div class="case-study-content">
-                            <p class="sub-title">Database Security</p>
+                            <p class="sub-title">Multifuctional of Technology</p>
                             <h3 class="title"><a href="#"><span>Multifunctional</span> <br> <span>of
                                         Technology</span></a></h3>
-                            <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                entire remote team of incredible freelance talent for all your </p>
+                            <p class="text">Maharashtra Pollution Control Board
+                                Consent to operate obtained by MPCB before commission to discharge effluents into water,
+                                air, and land according to the pollution act.</p>
                         </div>
                     </div>
                     <!-- Single Case Study End -->
@@ -483,11 +469,12 @@
                             <a href="#"><img src="assets/images/case-6.jpg" alt=""></a>
                         </div>
                         <div class="case-study-content">
-                            <p class="sub-title">Database Security</p>
+                            <p class="sub-title">Blockchain of Technology</p>
                             <h3 class="title"><a href="#"><span>Blockchain</span> <br> <span>of technology</span></a>
                             </h3>
-                            <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                entire remote team of incredible freelance talent for all your </p>
+                            <p class="text">International Quality Management System
+                                Obtained ISO 9001:2015, ISO 14001:2015 & ISONEC 27001:2013 Certifications from the
+                                International Organisation for Standardisation.</p>
                         </div>
                     </div>
                     <!-- Single Case Study End -->
@@ -522,9 +509,9 @@
                                 <img src="assets/images/ser-icon17.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="">Collection</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="#">Collection</a></h3>
+                                <p>Collection involves pick up from your location or drop-off centers & then safe
+                                    transportation to our recycling facility.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -536,9 +523,9 @@
                                 <img src="assets/images/ser-icon18.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">Data Destruction</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="#">Data Destruction</a></h3>
+                                <p>Sensitive information from the devices is securely erased using specialized software
+                                    or physically destroying the hard drive.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -550,9 +537,9 @@
                                 <img src="assets/images/ser-icon19.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">Sorting</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="#">Sorting</a></h3>
+                                <p>At the recycling facility, the e-waste is sorted into different categories such as
+                                    metals, plastics, glass, and other materials.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -567,9 +554,9 @@
                                 <img src="assets/images/ser-icon17.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="">Processing</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="#">Processing</a></h3>
+                                <p>Sorted metals such as copper, aluminum, and gold are smelted, while plastics and
+                                    other materials are sent for further processing.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -581,9 +568,9 @@
                                 <img src="assets/images/ser-icon18.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">Disposal</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="#">Disposal</a></h3>
+                                <p>Any hazardous materials such as lead, mercury, and cadmium or un-recyclable materials
+                                    are removed and disposed of safely.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -595,9 +582,10 @@
                                 <img src="assets/images/ser-icon19.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">Recycling</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="#">Recycling</a></h3>
+                                <p>Remaining recyclable material is recycled while adhering to all the Government
+                                    compliances for environment safety.
+                                </p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -624,10 +612,10 @@
                         </div>
                         <div class="about-author row">
                             <div class="col-lg-6 hero-btn" data-aos="fade-up" data-aos-delay="1000">
-                                <a class="btn" href="#" style="padding: 0px 17px;">Request a Pickup</a>
+                                <a class="btn" href="Pickup.php" style="padding: 0px 17px;">Request a Pickup</a>
                             </div>
                             <div class="col-lg-6 hero-btn" data-aos="fade-up" data-aos-delay="1000">
-                                <a class="btn" href="#" style="padding: 0px 17px;">Contact With US</a>
+                                <a class="btn" href="contact.php" style="padding: 0px 17px;">Contact With US</a>
                             </div>
                         </div>
                     </div>
@@ -636,8 +624,8 @@
                 <div class="col-lg-6">
                     <!-- About Right Start -->
                     <div class="about-02-right">
-                        <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote team of
-                            incredible freelance talent for all your software development needs.</p>
+                        <p>We are committed to transforming waste streams into new products, reducing waste and
+                            pollution, and building a world where resources are used in a sustainable way.</p>
                         <div class="row">
                             <div class="col-lg-6 about-list">
                                 <ul>
@@ -782,16 +770,15 @@
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="true"
                                                     aria-controls="collapseOne">
-                                                    <span class="title">How Long it takes finished projects ?</span>
+                                                    <span class="title">Is our data safe?</span>
                                                 </button>
                                             </div>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    Accelerate innovation with world-class tech teams We’ll match you to
-                                                    an
-                                                    entire remote team of incredible freelance talent for all your
-                                                    software.
+                                                    We provide secure data wiping and destruction service. AS per
+                                                    requirement, we can do on-site data wiping or physical destruction
+                                                    of hard drives.
                                                 </div>
                                             </div>
                                         </div>
@@ -800,15 +787,15 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    <span class="title">Support & Policy rules?</span>
+                                                    <span class="title">Who will transport our waste?</span>
                                                 </button>
                                             </div>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    We can help you channel your potential implementing your idea. We
-                                                    take
-                                                    care of all your needs, crafting specific and targeted solutions.
+                                                    We have specialized vehicles for all types of wastes to ensure safer
+                                                    transportation as well as customized storage facilities at our
+                                                    factories.
                                                 </div>
                                             </div>
                                         </div>
@@ -817,16 +804,15 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    <span class="title">Can we get refund?</span>
+                                                    <span class="title">Will we get paid?</span>
                                                 </button>
                                             </div>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    Accelerate innovation with world-class tech teams We’ll match you to
-                                                    an
-                                                    entire remote team of incredible freelance talent for all your
-                                                    software.
+                                                    Yes. We do have standard rates for the end-of-life equipment and
+                                                    you, as a company selling to us, will get sufficient monetary
+                                                    returns.
                                                 </div>
                                             </div>
                                         </div>
@@ -835,16 +821,15 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    <span class="title">Can we get refund?</span>
+                                                    <span class="title">Any certificates provided by you?</span>
                                                 </button>
                                             </div>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    Accelerate innovation with world-class tech teams We’ll match you to
-                                                    an
-                                                    entire remote team of incredible freelance talent for all your
-                                                    software.
+                                                    We provide all our clients with following certificates: Data
+                                                    Degaussing Certificate, Form 6 and most important Green Certificate
+                                                    safe recycling.
                                                 </div>
                                             </div>
                                         </div>

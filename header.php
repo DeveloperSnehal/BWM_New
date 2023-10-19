@@ -116,10 +116,10 @@
                             <li><a href="#">Career</a>
                                 <ul class="sub-menu">
                                     <li><a href="Work_at_BWM.php">Work At BWM</a></li>
-                                    <li><a href="blog-standard.html">Vacancies</a></li>
+                                    <li><a href="Vacancies.php">Vacancies</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
 
@@ -211,10 +211,10 @@
                         <li><a href="#">Career</a>
                             <ul class="sub-menu">
                                 <li><a href="Work_at_BWM.php">Work At BWM</a></li>
-                                <li><a href="blog-standard.html">Vacancies</a></li>
+                                <li><a href="Vacancies.php">Vacancies</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
