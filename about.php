@@ -91,10 +91,15 @@
                     <div class="about-content-wrap">
                         <div class="section-title">
                             <h3 class="sub-title">Who we are</h3>
-                            <h2 class="title">Highly Tailored IT Design, Management & Support Services.</h2>
+                            <h2 class="title">#1 Corporate E-Waste and IT Waste Recycler in India.</h2>
                         </div>
-                        <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire
-                            remote team of incredible freelance talent for all your software development needs.</p>
+                        <p class="text">We at [BWM] are deeply committed to both the environment and technological
+                            growth. Our objective as a leading e-waste firm is simple: to bridge the gap between
+                            technology and sustainability. We have been in the forefront of electronic trash recycling,
+                            while minimizing its impact on our world, thanks to a devoted team of professionals. Our
+                            path is propelled by innovation, environmentally conscientious methods, and a firm belief in
+                            the potential of responsible recycling. Join us in protecting the environment and creating a
+                            greener, cleaner future for everybody.</p>
                     </div>
                     <!-- About Content Wrap End -->
                 </div>
@@ -104,6 +109,241 @@
     </div>
 </div>
 <!-- About End -->
+
+<!-- Choose Us Start -->
+<div class="section techwix-choose-us-section section-padding"
+    style="background-image: url(assets/images/bg/choose-us-bg3.jpg);padding-top: 70px;">
+    <div class="container">
+        <!-- Choose Us Wrap Start -->
+        <div class="choose-us-wrap">
+            <div class="section-title text-center">
+                <h3 class="sub-title">WHAT WE ARE FOCUSED ON</h3>
+                <h2 class="title">Achieving Circular Economy Through Recycling.</h2>
+            </div>
+            <div class="choose-us-content-wrap">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/ser-icon9.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Raising Awareness</a></h3>
+                                <p>Individuals, businesses, and governments must acknowledge the environmental and
+                                    economic benefits of recycling.</p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/counter-3.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Convenient Recycling</a></h3>
+                                <p>Accessible infrastructure, clear guidelines, and convenient process ensures maximum
+                                    recycling impact.</p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/ser-icon10.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Robust Infrastructure</a></h3>
+                                <p>Recycling facilities, collection centers, and transportation networks need to be
+                                    robust, to increase recycling.</p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/ser-icon12.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Trained Workforce</a></h3>
+                                <p>Skilled workforce in waste collection, sorting, and recycling operations is essential
+                                    for effective recycling.</p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/counter-1.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Promoting<br> EPR</a></h3>
+                                <p>Manufacturers must design products with recyclability in mind, reducing waste and
+                                    promoting sustainability.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/counter-2.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Innovating Technologies</a></h3>
+                                <p>Innovation in material recovery, waste-to-energy conversion, and advanced sorting
+                                    enhances recycling.</p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/ser-icon21.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Encouraging Collaboration</a></h3>
+                                <p>Achieving a circular economy is a collective effort. Collaboration leads to
+                                    comprehensive and sustainable outcomes.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <!-- Choose Us Item Start -->
+                        <div class="choose-us-item-02">
+                            <div class="choose-us-img">
+                                <img src="assets/images/ser-icon22.png" alt="">
+                            </div>
+                            <div class="choose-us-content">
+                                <h3 class="title"><a href="service.html">Circular<br> Culture</a></h3>
+                                <p>Changing attitudes, behaviors, social norms and cultivating a culture that values
+                                    sustainability and recycling.</p>
+                            </div>
+                        </div>
+                        <!-- Choose Us Item End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Choose Us Wrap End -->
+    </div>
+</div>
+<!-- Choose Us End -->
+
+<!-- Skill Start -->
+<div class="section techwix-skill-section-02 techwix-skill-section-03 section-padding">
+    <div class="container">
+        <div class="skill-wrap">
+            <div class="row">
+                <div class="col-lg-6">
+                    <!-- Skill Left Start -->
+                    <div class="skill-left">
+                        <div class="section-title">
+                            <h2 class="title">Turning Today's Trash into Tomorrow's Treasure</h2>
+                        </div>
+                        <div class="about-list">
+                            <ul>
+                                <li>
+                                    <span class="about-icon"><i class="fas fa-check"></i></span>
+                                    <span class="about-text">We always focus on Environment-Friendly Measures
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="about-icon"><i class="fas fa-check"></i></span>
+                                    <span class="about-text">We bring ideas and excitement to Managing of Waste
+                                    </span>
+                                </li>
+                                <li>
+                                    <span class="about-icon"><i class="fas fa-check"></i></span>
+                                    <span class="about-text">We're advocates, guides and consultants for
+                                        Sustainability</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- About Author Info Wrap Start -->
+                        <div class="about-author-info-wrap">
+                            <div class="about-author">
+                                <img src="assets/images/sign.png" alt="">
+                                <h3 class="name">Alen Morno sin</h3>
+                                <span class="designation">CEO, Techmax</span>
+                            </div>
+                            <div class="about-info">
+                                <p>Call to ask any question </p>
+                                <h3 class="number">0123-456-7890</h3>
+                            </div>
+                        </div>
+                        <!-- About Author Info Wrap End -->
+                    </div>
+                    <!-- Skill Left End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- Skill Right Start -->
+                    <div class="skill-right">
+                        <p class="text">BWM's not just about disposal, but about creating a brighter, more sustainable
+                            future. In a world where the concern of waste is evolving into a global crisis, we are
+                            committed to redefining the way we manage it. Join us on a journey towards a circular
+                            economy, where waste is not the end, but the beginning of something beautiful and
+                            sustainable.</p>
+                        <div class="counter-bar">
+                            <!-- Skill Item Start -->
+                            <div class="skill-item">
+                                <span class="title">IT Managment</span>
+                                <div class="skill-bar">
+                                    <div class="bar-inner">
+                                        <div class="bar progress-line color-1" data-width="80">
+                                            <span class="skill-percent"><span class="counter">80</span>%</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Skill Item End -->
+                            <!-- Skill Item Start -->
+                            <div class="skill-item">
+                                <span class="title">Data Security</span>
+                                <div class="skill-bar">
+                                    <div class="bar-inner">
+                                        <div class="bar progress-line color-1" data-width="95">
+                                            <span class="skill-percent"><span class="counter">95</span>%</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Skill Item End -->
+                            <!-- Skill Item Start -->
+                            <div class="skill-item">
+                                <span class="title">Information Technology</span>
+                                <div class="skill-bar">
+                                    <div class="bar-inner">
+                                        <div class="bar progress-line color-1" data-width="80">
+                                            <span class="skill-percent"><span class="counter">80</span>%</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Skill Item End -->
+                        </div>
+                    </div>
+                    <!-- Skill Right End -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Skill End -->
 
 <!-- Choose Us Start -->
 <div class="section techwix-choose-us-section-02 section-padding-02"
@@ -117,12 +357,12 @@
                     <div class="choose-us-left">
                         <div class="section-title">
                             <h3 class="sub-title">OUR MISSION</h3>
-                            <h2 class="title">We provide truly prominent IT solutions.</h2>
+                            <h2 class="title">Alter the Waste Management Landscape.</h2>
                         </div>
-                        <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire
-                            remote team of incredible freelance talent for all your software development needs.</p>
-                        <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire
-                            remote team of incredible freelance talent for all your software development needs.</p>
+                        <p class="text">We are committed to the responsible recycling and recovery of electrical
+                            equipment, ensuring that no resource is wasted and that our environment is not harmed,
+                            conserving vital resources, and safeguarding the world for future generations.
+                        </p>
                     </div>
                     <!-- Choose Us Left End -->
                 </div>
@@ -131,13 +371,12 @@
                     <div class="choose-us-left">
                         <div class="section-title">
                             <h3 class="sub-title">OUR VISION</h3>
-                            <h2 class="title">We provide truly prominent IT solutions.</h2>
+                            <h2 class="title">Establish Higher Industry Standards.</h2>
                         </div>
-                        <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire
-                            remote team of incredible freelance talent for all your software development needs.</p>
-                        <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an entire
-                            remote team of incredible freelance talent for all your software development needs.</p>
-
+                        <p class="text">We envision a future in which electronic waste is reduced, resources are
+                            conserved, and our planet flourishes. We are committed to attaining this vision and leaving
+                            a lasting legacy of a cleaner, greener planet via innovation, education, and collective
+                            effort.</p>
                     </div>
                     <!-- Choose Us Left End -->
                 </div>

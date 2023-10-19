@@ -67,14 +67,15 @@
 </div>
 <!-- Page Banner End -->
 
-<div  style="background-image: url(assets/images/bg/service-bg6.jpg); margin-top:60%; padding: 5%; text-align: center;">
-    <p>Our path at BWM rests on a deep commitment to environmental sustainability and a vision of a society in which
-        electronic waste is no longer a threat to our planet. We are a movement, a force for change, and an agent for
-        sustainability, not just a company. Our dedicated ambition at BWM is to change the way electronic waste is seen
-        and handled around the world. We want to live in a society where disposed electronic devices are not hazardous
-        time bombs, but rather precious materials that can be used to benefit our environment and future generations.
-        Our goal is unwavering: to reduce the environmental effect of electronic waste through moral recycling. We are
-        committed to giving up gadgets for a new life.</p>
+<div style="background-image: url(assets/images/bg/service-bg6.jpg); margin-top:60%; padding: 5%; text-align: center;">
+    <p class="texts">Our path at BWM rests on a deep commitment to environmental sustainability and a vision of a
+        society in which
+        electronic waste is no longer a threat to our planet. BWM is not just a company. We are a movement, a force for
+        change, and an agent for sustainability. Our dedicated ambition at BWM is to change the way electronic waste is
+        seen and handled around the world. We envision a society where disposed electronic devices are not hazardous
+        ticking time bombs, but rather precious materials that can be used to benefit our environment and future
+        generations. Our goal is unwavering: to reduce the environmental effect of electronic waste through moral
+        recycling. We are committed to reviving old gadgets for a new life.</p>
 </div>
 
 <!-- Story Blog-1 Start -->
@@ -90,12 +91,13 @@
                 <div class="section-title">
                     <h2 class="title">OUR FOUNDING - A JOURNEY OF PURPOSE</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
-                    all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
-                    electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
-                    harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
-                    discarded electronics, extend their usability, and promote a sustainable future, guided by
-                    unwavering devotion.</p>
+                <p class="texts">Our story at BWM is started with a strong sense of responsibility to environmental
+                    conservation. It all began when our visionary founder set out on an attempt to revolutionize the way
+                    electronic waste has been managed and recycled over the years. Our aim has been constant since the
+                    beginning: to reduce the harmful effects caused by irresponsible dumping of electronic and other
+                    hazardous waste through responsible and environment friendly methods of recycling. BWM wants to put
+                    new life into discarded electronics, extend their usability through refurbishing; while promoting a
+                    sustainable future.</p>
 
             </div>
         </div>
@@ -111,18 +113,21 @@
                 <div class="section-title">
                     <h2 class="title">EARLY GROWTH AND FUNDING – CREATING A VISION</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
-                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
-                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
-                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
-                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
-                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
-                    provided.</p>
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to
+                    lead the struggle against the environmental threat posed by many types of industrial waste. We knew
+                    from the start that realizing our purpose into reality required not only unbreakable commitment, but
+                    also substantial funds and investment. BWM's expanse grew in line as the need for responsible
+                    management of electronic and other corporate waste increased. Within 5 years, we increased our reach
+                    to Pan India services, covering the states of Maharashtra, Benglore, Hyderabad, Delhi, Kolkata,
+                    Gujarat, and all the major states of the country. Our quick expansion is proof of the rising
+                    awareness around the environmental impact of e-waste and IT waste and all the positive recycling
+                    solutions BWM provides.
+                </p>
 
             </div>
             <div class="col-lg-5">
                 <div class="image">
-                    <img src="assets/images/about-sm2.jpg" alt="">
+                    <img src="assets/images/about-3.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -137,23 +142,23 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="image">
-                    <img src="assets/images/about-sm2.jpg" alt="">
+                    <img src="assets/images/about-3.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-7">
                 <div class="section-title">
-                    <h2 class="title">SERIES B FUNDING</h2>
+                    <h2 class="title">Owning a State-of-the-Recycling Factory</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-
+                <p class="texts">The rapid technological advancement comes with a hidden cost - a monumental surge in
+                    corporate IT waste generated. As we started growing and taking up more and more clients for our
+                    e-waste recycling services, the realization hit us! The current methods and machinery employed in
+                    Indian markets for recycling are insufficient to handle this challenge. </p>
+                <p class="texts">Hence, came the need of cutting-edge Recycling Factory. The impetus behind our new
+                    factory was the realization that we need a more holistic solution, a facility designed not only to
+                    tackle the colossal volume of electronic waste but also to optimize the recovery of valuable
+                    resources contained within these discarded devices. </p>
+                <p class="texts">Our state-of-the-art Electronic Waste Recycling Factory will stand as a testament to
+                    our unwavering promise to achieve Sustainability through Recycling.</p>
             </div>
         </div>
     </div>
