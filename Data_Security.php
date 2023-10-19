@@ -69,10 +69,10 @@
 
 <div
     style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p>We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
+    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
         responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a
         better future.</p>
-    <p>Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
+    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
         art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise
         waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are
         dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste
@@ -81,7 +81,7 @@
         smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique,
         functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly
         procedures</p>
-    <p>Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
+    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
         recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the
         need for fresh resources.</p><br>
 
@@ -91,27 +91,27 @@
             <ul>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Data Encryption:</b>  To prevent misuse, secure sensitive data both in transit and at rest. Establish common data backup and recovery practices to assure data availability in the event of data loss or cybersecurity issues.</span>
+                    <span class="service-text texts"><b>Data Encryption:</b>  To prevent misuse, secure sensitive data both in transit and at rest. Establish common data backup and recovery practices to assure data availability in the event of data loss or cybersecurity issues.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Security Culture:</b> Create a data security culture inside your firm in which all employees understand the importance of data security and actively engage in protecting data assets.</span>
+                    <span class="service-text texts"><b>Security Culture:</b> Create a data security culture inside your firm in which all employees understand the importance of data security and actively engage in protecting data assets.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Legal Compliance:</b> As a key data producer, you are required to follow all applicable data protection rules and regulations in your sector..</span>
+                    <span class="service-text texts"><b>Legal Compliance:</b> As a key data producer, you are required to follow all applicable data protection rules and regulations in your sector..</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Employee Education:</b> Ensure that all employees who work with sensitive information receive data security training.</span>
+                    <span class="service-text texts"><b>Employee Education:</b> Ensure that all employees who work with sensitive information receive data security training.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Transparency and accountability:</b> Be open and honest with data subjects.</span>
+                    <span class="service-text texts"><b>Transparency and accountability:</b> Be open and honest with data subjects.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Data Inventory:</b> Keep a full list of all data assets.</span>
+                    <span class="service-text texts"><b>Data Inventory:</b> Keep a full list of all data assets.</span>
                 </li>
             </ul>
         </div>

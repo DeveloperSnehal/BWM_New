@@ -69,10 +69,10 @@
 
 <div
     style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p>We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
+    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
         responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a
         better future.</p>
-    <p>Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
+    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
         art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise
         waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are
         dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste
@@ -81,7 +81,7 @@
         smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique,
         functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly
         procedures</p>
-    <p>Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
+    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
         recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the
         need for fresh resources.</p><br>
 
@@ -91,23 +91,23 @@
             <ul>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Reuse and Refurbishment:</b>  We prioritise reusing and refurbishing returned products whenever possible. Our trained technicians check the state of these goods and, if necessary, restore them.</span>
+                    <span class="service-text texts"><b>Reuse and Refurbishment:</b>  We prioritise reusing and refurbishing returned products whenever possible. Our trained technicians check the state of these goods and, if necessary, restore them.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Recycling and Material Recovery:</b> We prioritise recycling and material recovery for products that cannot be reused or reconditioned. Our facilities are set up to collect and recycle materials from returned or end-of-life products, allowing us to recover valuable components while reducing waste.</span>
+                    <span class="service-text texts"><b>Recycling and Material Recovery:</b> We prioritise recycling and material recovery for products that cannot be reused or reconditioned. Our facilities are set up to collect and recycle materials from returned or end-of-life products, allowing us to recover valuable components while reducing waste.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Transparency:</b> We keep our reverse logistics procedures transparent by providing users with clear information about our return, refurbishment, and recycling programs. Transparency builds confidence and increases awareness among the people we serve.</span>
+                    <span class="service-text texts"><b>Transparency:</b> We keep our reverse logistics procedures transparent by providing users with clear information about our return, refurbishment, and recycling programs. Transparency builds confidence and increases awareness among the people we serve.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Remanufacturing and refurbishing:</b> The process of restoring returned products to like-new condition in order to reduce waste and environmental impact while extending product life cycles.</span>
+                    <span class="service-text texts"><b>Remanufacturing and refurbishing:</b> The process of restoring returned products to like-new condition in order to reduce waste and environmental impact while extending product life cycles.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Customer-Centric Approach:</b> We understand the importance of our customers' contributions to our sustainability efforts.</span>
+                    <span class="service-text texts"><b>Customer-Centric Approach:</b> We understand the importance of our customers' contributions to our sustainability efforts.</span>
                 </li>
             </ul>
         </div>

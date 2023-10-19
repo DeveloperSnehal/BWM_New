@@ -82,7 +82,8 @@
                                     <li><a href="IT_Waste.php">IT Waste</a></li>
                                     <li><a href="Plastic_Waste.php">Plastic Waste</a></li>
                                     <li><a href="Biomedical_Waste.php">Biomedical Waste</a></li>
-                                    <li><a href="Construction_and_Demolition_Waste.php">Construction and Demolition Waste</a></li>
+                                    <li><a href="Construction_and_Demolition_Waste.php">Construction and Demolition
+                                            Waste</a></li>
                                     <li><a href="Hazardous_Waste.php">Hazardous Waste</a></li>
                                     <li><a href="Battery_Waste.php">Battery Waste</a></li>
                                     <li><a href="Oil_Waste.php">Oil Waste</a></li>
@@ -108,14 +109,13 @@
                             </li>
                             <li><a href="#">Media</a>
                                 <ul class="sub-menu">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-standard.html">Events</a></li>
-                                    <li><a href="blog-details.html">News</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="Our_Events.php">Events</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">Career</a>
                                 <ul class="sub-menu">
-                                    <li><a href="blog.html">Work At BWM</a></li>
+                                    <li><a href="Work_at_BWM.php">Work At BWM</a></li>
                                     <li><a href="blog-standard.html">Vacancies</a></li>
                                 </ul>
                             </li>
@@ -177,7 +177,8 @@
                                 <li><a href="IT_Waste.php">IT Waste</a></li>
                                 <li><a href="Plastic_Waste.php">Plastic Waste</a></li>
                                 <li><a href="Biomedical_Waste.php">Biomedical Waste</a></li>
-                                <li><a href="Construction_and_Demolition_Waste.php">Construction and Demolition Waste</a></li>
+                                <li><a href="Construction_and_Demolition_Waste.php">Construction and Demolition
+                                        Waste</a></li>
                                 <li><a href="Hazardous_Waste.php">Hazardous Waste</a></li>
                                 <li><a href="Battery_Waste.php">Battery Waste</a></li>
                                 <li><a href="Oil_Waste.php">Oil Waste</a></li>
@@ -203,14 +204,13 @@
                         </li>
                         <li><a href="#">Media</a>
                             <ul class="sub-menu">
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="blog-standard.html">Events</a></li>
-                                <li><a href="blog-details.html">News</a></li>
+                                <li><a href="blog.php">Blog</a></li>
+                                <li><a href="Our_Events.php">Events</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Career</a>
                             <ul class="sub-menu">
-                                <li><a href="blog.html">Work At BWM</a></li>
+                                <li><a href="Work_at_BWM.php">Work At BWM</a></li>
                                 <li><a href="blog-standard.html">Vacancies</a></li>
                             </ul>
                         </li>

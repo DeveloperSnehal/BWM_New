@@ -69,10 +69,10 @@
 
 <div
     style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p>We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
+    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
         responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a
         better future.</p>
-    <p>Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
+    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
         art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise
         waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are
         dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste
@@ -81,7 +81,7 @@
         smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique,
         functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly
         procedures</p>
-    <p>Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
+    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
         recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the
         need for fresh resources.</p><br>
 
@@ -93,46 +93,46 @@
             <ul>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Responsibility Transfer:</b> Transfers environmental duty from
+                    <span class="service-text texts"><b>Responsibility Transfer:</b> Transfers environmental duty from
                         consumers to producers. Full Lifecycle: Considers the complete life of a product, from
                         production to disposal.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Eco-Friendly Design:</b> Promotes environmentally friendly product
+                    <span class="service-text texts"><b>Eco-Friendly Design:</b> Promotes environmentally friendly product
                         design and materials.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Collecting Systems:</b> Establishes product collecting and recycling
+                    <span class="service-text texts"><b>Collecting Systems:</b> Establishes product collecting and recycling
                         systems.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Material Reuse:</b> Promotes the recycling and reusing of
+                    <span class="service-text texts"><b>Material Reuse:</b> Promotes the recycling and reusing of
                         materials.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Regulatory Compliance:</b> Complies with local EPR regulations.</span>
+                    <span class="service-text texts"><b>Regulatory Compliance:</b> Complies with local EPR regulations.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Consumer Education:</b> Informs customers on proper product
+                    <span class="service-text texts"><b>Consumer Education:</b> Informs customers on proper product
                         disposal.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Circular Economy:</b> Advocates for a resource-use paradigm that is
+                    <span class="service-text texts"><b>Circular Economy:</b> Advocates for a resource-use paradigm that is
                         circular.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Waste Reduction:</b> Attempts to reduce waste and landfill use.</span>
+                    <span class="service-text texts"><b>Waste Reduction:</b> Attempts to reduce waste and landfill use.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Corporate Responsibility:</b> Stresses the importance of producer
+                    <span class="service-text texts"><b>Corporate Responsibility:</b> Stresses the importance of producer
                         accountability for environmental impact.</span>
                 </li>
             </ul>

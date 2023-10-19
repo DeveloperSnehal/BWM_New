@@ -68,9 +68,9 @@
 <!-- Page Banner End -->
 
 <div style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p>We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a better future.</p>
-    <p>Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste properly and creatively, as it is a major environmental concern.Our upcycling technique puts new life into discarded electronic gadgets and components. We recycle and reuse important parts from unnecessary laptops, smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique, functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly procedures</p>
-    <p>Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the need for fresh resources.</p>
+    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a better future.</p>
+    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste properly and creatively, as it is a major environmental concern.Our upcycling technique puts new life into discarded electronic gadgets and components. We recycle and reuse important parts from unnecessary laptops, smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique, functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly procedures</p>
+    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the need for fresh resources.</p>
 </div>
 
 <!-- Story Blog-1 Start -->
@@ -86,7 +86,7 @@
                 <div class="section-title">
                     <h2 class="title">It Waste Recycling</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
+                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
                     all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
                     electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
@@ -106,7 +106,7 @@
                 <div class="section-title">
                     <h2 class="title">Plastic Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -137,7 +137,7 @@
                 <div class="section-title">
                     <h2 class="title">Paper And Document Shredding Recycling</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
+                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
                     all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
                     electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
@@ -157,7 +157,7 @@
                 <div class="section-title">
                     <h2 class="title">Battery Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -188,7 +188,7 @@
                 <div class="section-title">
                     <h2 class="title">Rubber Waste Recycling</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
+                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
                     all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
                     electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into

@@ -68,7 +68,7 @@
 <!-- Page Banner End -->
 
 <div style="background-image: url(assets/images/bg/service-bg6.jpg); margin-top:60%; padding: 5%; text-align: center;">
-    <p>Recycling is the process of converting waste materials into new materials and objects. This concept often
+    <p class="texts">Recycling is the process of converting waste materials into new materials and objects. This concept often
         includes the recovery of energy from waste materials. The recyclability of a material depends on its ability to
         reacquire the properties it had in its original state.[1] It is an alternative to "conventional" waste disposal
         that can save material and help lower greenhouse gas emissions. It can also prevent the waste of potentially
@@ -89,7 +89,7 @@
                 <div class="section-title">
                     <h2 class="title">Electronic Waste Recycling</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
+                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
                     all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
                     electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
@@ -110,7 +110,7 @@
                 <div class="section-title">
                     <h2 class="title">IT Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -143,7 +143,7 @@
                 <div class="section-title">
                     <h2 class="title">Plastic Waste Recycling</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
                     on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
                     caught the attention of [name significant investors, investment groups, or grant bodies] in
                     [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
@@ -167,7 +167,7 @@
                 <div class="section-title">
                     <h2 class="title">Biomedical Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -200,7 +200,7 @@
                 <div class="section-title">
                     <h2 class="title">Hazardous Waste Recycling</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
                     on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
                     caught the attention of [name significant investors, investment groups, or grant bodies] in
                     [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
@@ -224,7 +224,7 @@
                 <div class="section-title">
                     <h2 class="title">Battery Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -257,7 +257,7 @@
                 <div class="section-title">
                     <h2 class="title">Oil Waste Recycling </h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
                     on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
                     caught the attention of [name significant investors, investment groups, or grant bodies] in
                     [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
@@ -281,7 +281,7 @@
                 <div class="section-title">
                     <h2 class="title">Paper Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -314,7 +314,7 @@
                 <div class="section-title">
                     <h2 class="title">Rubber Waste Recycling</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
                     on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
                     caught the attention of [name significant investors, investment groups, or grant bodies] in
                     [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
@@ -339,7 +339,7 @@
                 <div class="section-title">
                     <h2 class="title">Construction And Demolition Waste Recycling</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we

@@ -69,10 +69,10 @@
 
 <div
     style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p>We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
+    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
         responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a
         better future.</p>
-    <p>Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
+    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
         art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise
         waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are
         dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste
@@ -81,7 +81,7 @@
         smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique,
         functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly
         procedures</p>
-    <p>Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
+    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
         recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the
         need for fresh resources.</p><br>
 
@@ -91,23 +91,23 @@
             <ul>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Customised Strategies:</b>  We understand that there is no one-size-fits-all approach to carbon reduction. Our professionals collaborate with you to design specific strategies and action plans that address your specific objectives.</span>
+                    <span class="service-text texts"><b>Customised Strategies:</b>  We understand that there is no one-size-fits-all approach to carbon reduction. Our professionals collaborate with you to design specific strategies and action plans that address your specific objectives.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Energy Efficiency Solutions:</b> We discover possibilities to improve energy efficiency in your operations, whether through the use of renewable energy sources, building system improvement, or the implementation of energy-efficient technologies.</span>
+                    <span class="service-text texts"><b>Energy Efficiency Solutions:</b> We discover possibilities to improve energy efficiency in your operations, whether through the use of renewable energy sources, building system improvement, or the implementation of energy-efficient technologies.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Transportation Management:</b> We assist you in reducing transportation-related pollution through workforce improvement, promotion of eco-friendly commuting options, and integration of sustainable transportation practices.</span>
+                    <span class="service-text texts"><b>Transportation Management:</b> We assist you in reducing transportation-related pollution through workforce improvement, promotion of eco-friendly commuting options, and integration of sustainable transportation practices.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Waste Reduction and Recycling:</b> An important component of carbon reduction is successful waste management. We help you put waste reduction programs, recycling efforts, and moral disposal procedures in place.</span>
+                    <span class="service-text texts"><b>Waste Reduction and Recycling:</b> An important component of carbon reduction is successful waste management. We help you put waste reduction programs, recycling efforts, and moral disposal procedures in place.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Renewable Energy Collaboration:</b> We assist you in combining renewable energy sources such as solar and wind power, allowing you to reduce your reliance on fossil fuels and reduce emissions.</span>
+                    <span class="service-text texts"><b>Renewable Energy Collaboration:</b> We assist you in combining renewable energy sources such as solar and wind power, allowing you to reduce your reliance on fossil fuels and reduce emissions.</span>
                 </li>
             </ul>
         </div>

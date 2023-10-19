@@ -69,10 +69,10 @@
 
 <div
     style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p>We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
+    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
         responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a
         better future.</p>
-    <p>Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
+    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
         art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise
         waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are
         dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste
@@ -81,7 +81,7 @@
         smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique,
         functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly
         procedures</p>
-    <p>Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
+    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
         recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the
         need for fresh resources.</p><br>
 
@@ -91,23 +91,23 @@
             <ul>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Regulatory Evaluations:</b>  Our consultation services begin with an in-depth evaluation of your present compliance status. We identify gaps, potential hazards, and opportunities for improvement, helping you in developing a strong compliance program.</span>
+                    <span class="service-text texts"><b>Regulatory Evaluations:</b>  Our consultation services begin with an in-depth evaluation of your present compliance status. We identify gaps, potential hazards, and opportunities for improvement, helping you in developing a strong compliance program.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Personalised Consulting:</b> We understand that each client is unique. Our consulting services adjust to your industry, region, and business model. This customised approach ensures that you receive targeted counsel that is tailored to your specific requirements.</span>
+                    <span class="service-text texts"><b>Personalised Consulting:</b> We understand that each client is unique. Our consulting services adjust to your industry, region, and business model. This customised approach ensures that you receive targeted counsel that is tailored to your specific requirements.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Risk Management:</b> Compliance includes more than just following legal criteria; it also includes risk management. To safeguard your organisation and image, we assist you in discovering, assessing, and reducing compliance-related risks.</span>
+                    <span class="service-text texts"><b>Risk Management:</b> Compliance includes more than just following legal criteria; it also includes risk management. To safeguard your organisation and image, we assist you in discovering, assessing, and reducing compliance-related risks.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Regulatory Changes:</b> Regulatory environments are always changing. We keep you up to date on industry changes, allowing you to adjust and remain ahead of compliance concerns.</span>
+                    <span class="service-text texts"><b>Regulatory Changes:</b> Regulatory environments are always changing. We keep you up to date on industry changes, allowing you to adjust and remain ahead of compliance concerns.</span>
                 </li>
                 <li>
                     <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text"><b>Training and Education:</b> We provide training and educational programs that provide your team with the knowledge and skills needed for effective compliance. This includes workshops, webinars, and materials specifically customised to your needs.</span>
+                    <span class="service-text texts"><b>Training and Education:</b> We provide training and educational programs that provide your team with the knowledge and skills needed for effective compliance. This includes workshops, webinars, and materials specifically customised to your needs.</span>
                 </li>
             </ul>
         </div>

@@ -84,7 +84,7 @@
                 <div class="section-title">
                     <h2 class="title">Society and The Climate Transition</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
+                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
                     all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
                     electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
@@ -105,7 +105,7 @@
                 <div class="section-title">
                     <h2 class="title">Our Value Chain</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -141,7 +141,7 @@
                 <div class="section-title">
                     <h2 class="title">A Sustainable Work Environment</h2>
                 </div>
-                <p class="text">Understanding the importance of money in expanding operations, [founder's name] set out
+                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
                     on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
                     caught the attention of [name significant investors, investment groups, or grant bodies] in
                     [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
@@ -165,7 +165,7 @@
                 <div class="section-title">
                     <h2 class="title">Attracting And Retaining Expertise</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -201,7 +201,7 @@
                 <div class="section-title">
                     <h4>We Commit To Reducing Our Environmental Effect At All Stages Of Our Operations.</h4>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -231,7 +231,7 @@
                 <div class="section-title">
                     <h2 class="title">Making A Positive Impact</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
+                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
                     all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
                     electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
@@ -256,7 +256,7 @@
                 <div class="section-title">
                     <h2 class="title">Working Together For A Better Future</h2>
                 </div>
-                <p class="text">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
+                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
                     the struggle against the environmental threat posed by electronic waste. We knew from the start that
                     understanding our purpose required not only unbreakable commitment, but also substantial funds and
                     investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
@@ -288,7 +288,7 @@
                 <div class="section-title">
                     <h2 class="title">A positive force in society</h2>
                 </div>
-                <p class="text">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
+                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
                     all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
                     electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
                     harmful effects of electronic waste through responsible recycling. BWM wants to put new life into

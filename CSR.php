@@ -96,7 +96,7 @@
                     <div class="col-lg-6">
                         <!-- About Content Start -->
                         <div class="about-content">
-                            <p class="text">We are more than just a waste management company; we aim to be a superior
+                            <p class="texts">We are more than just a waste management company; we aim to be a superior
                                 waste management company. Our vision goes beyond simple waste disposal. We believe in
                                 sustainable trash management that promotes environmental responsibility and an effort to
                                 a cleaner, greener future. We want to reshape the waste management business by accepting
@@ -127,7 +127,7 @@
                 <h3 class="sub-title">Whats included in service</h3>
                 <h2 class="title">Together, We Can Rebuild The World</h2>
             </div>
-            <p class="text" style="margin-top: 4%; text-align: center;">Our goal extends far beyond the walls of our
+            <p class="texts" style="margin-top: 4%; text-align: center;">Our goal extends far beyond the walls of our
                 company; it is a collaborative effort with our partners, customers, workers, and the worldwide
                 community. We are the architects of a new world, one defined by sustainability, accountability, and a
                 deep desire to make a difference.We accept a shared responsibility for the communities we serve,
