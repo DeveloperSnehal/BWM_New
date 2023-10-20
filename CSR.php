@@ -96,16 +96,8 @@
                     <div class="col-lg-6">
                         <!-- About Content Start -->
                         <div class="about-content">
-                            <p class="texts">We are more than just a waste management company; we aim to be a superior
-                                waste management company. Our vision goes beyond simple waste disposal. We believe in
-                                sustainable trash management that promotes environmental responsibility and an effort to
-                                a cleaner, greener future. We want to reshape the waste management business by accepting
-                                innovative solutions that reduce environmental impact, encourage recycling and reuse,
-                                and advocate for appropriate trash disposal practices. Our approach is founded on
-                                ethical principles, openness, and a great regard for the communities we serve. We
-                                recognize that waste management is about more than just waste; it is about protecting
-                                our environment, improving the quality of life for everybody, and leaving a positive
-                                legacy. Join us in our mission to revolutionise trash management.</p>
+                            <p class="texts">Corporate Social Responsibility (CSR) holds immense importance for today's consumers due to heightened awareness and evolving values. Modern consumers are more socially and environmentally conscious than ever. They seek products and services from companies that align with their values. CSR initiatives showcase a company's commitment to ethical and sustainable practices, making it attractive to these conscientious consumers. Planning for Waste recycling and management is the most important responsibility of corporations in today's world. </p>
+                            <p class="texts">Our vision goes beyond simple waste disposal. We believe in sustainable trash management that promotes environmental responsibility and an effort to a cleaner, greener future. We want to reshape the waste management business by accepting innovative solutions that reduce environmental impact, encourage recycling and reuse, and advocate for appropriate trash disposal practices. Join us in our mission to revolutionize trash management.</p>
                         </div>
                         <!-- About Content End -->
                     </div>
@@ -127,17 +119,8 @@
                 <h3 class="sub-title">Whats included in service</h3>
                 <h2 class="title">Together, We Can Rebuild The World</h2>
             </div>
-            <p class="texts" style="margin-top: 4%; text-align: center;">Our goal extends far beyond the walls of our
-                company; it is a collaborative effort with our partners, customers, workers, and the worldwide
-                community. We are the architects of a new world, one defined by sustainability, accountability, and a
-                deep desire to make a difference.We accept a shared responsibility for the communities we serve,
-                actively participating in and supporting local programs that improve well-being, education, and economic
-                opportunity. We use our global influence to achieve positive change by fighting for responsible
-                practices and environmental conservation.Our employees are the lifeline of our purpose. Their
-                commitment, passion, and innovation fuel our success, transforming ideas into action and difficulties
-                into opportunity. We invest in their growth, well-being, and development, creating a workforce that is
-                unique.</p>
-
+            <p class="texts" style="margin-top: 4%; text-align: center;">Noticing the increasing environmental and social problems related to waste management, BWM has come forward with a meticulous plan to help corporations intentionally plan for the waste recycling process and contribute towards a sustainable environment. </p>
+            <p class="texts" style="margin-top: 4%; text-align: center;">All the hassle is taken care of from our side. Recyclable trash is collected at your companies and transported safely to our facilities. After the disposal and recycling of the waste, we will provide you with all the relevant certificates to help you exhibit socially that you have contributed towards reducing your company's footprint.</p>
             <div class="service-content-wrap">
                 <div class="row">
                     <div class="col-xl-4 col-sm-6">
@@ -147,9 +130,8 @@
                                 <img src="assets/images/ser-icon13.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">AI base business solution</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="service.html">Environmental Stewardship</a></h3>
+                                <p>Effective waste management reduces the environmental footprint of a company. Minimizing waste, promoting recycling, and proper disposal of hazardous materials demonstrate a commitment to preserving the environment, aligning with CSR principles.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -161,9 +143,8 @@
                                 <img src="assets/images/ser-icon14.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">Chatbot with Real meeting</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="service.html">Compliance and Legal Responsibility</a></h3>
+                                <p>Proper waste management helps companies adhere to environmental regulations and standards. CSR involves obeying the law and going beyond compliance, showcasing a commitment to ethical practices.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -175,9 +156,8 @@
                                 <img src="assets/images/ser-icon15.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h3 class="title"><a href="service.html">Automate data saving</a></h3>
-                                <p>Accelerate innovation with world-class tech teams We’ll match you to an entire remote
-                                    team .</p>
+                                <h3 class="title"><a href="service.html">Reputation and Brand Image</a></h3>
+                                <p>A company that demonstrates responsible waste management practices is perceived as socially responsible. This enhances brand reputation and can attract environmentally-conscious consumers, contributing to positive CSR outcomes.</p>
                             </div>
                         </div>
                         <!-- Service Item End -->
@@ -196,7 +176,7 @@
         <div class="row">
             <div class="col-sm-12" style="margin: 5%;">
                 <div class="section-title text-center">
-                    <h2 class="title">Benefits Of Socially Responsible Corporations</h2>
+                    <h2 class="title" style="padding-right: 11%;">Benefits Of Socially Responsible Corporations</h2>
                 </div>
             </div>
         </div>
