@@ -67,10 +67,78 @@
 </div>
 <!-- Page Banner End -->
 
-<div style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a better future.</p>
-    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste properly and creatively, as it is a major environmental concern.Our upcycling technique puts new life into discarded electronic gadgets and components. We recycle and reuse important parts from unnecessary laptops, smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique, functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly procedures</p>
-    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the need for fresh resources.</p>
+<div
+    style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
+    <div class="section-title text-center">
+        <h2 class="title">Li-ion Battery Waste Management in the Indian Economy</h2>
+    </div>
+    <p class="texts">Li-ion batteries have become an integral part of modern life, powering everything from smartphones
+        to electric vehicles. The growing adoption of electric vehicles (EVs) and the increasing reliance on electronic
+        gadgets have led to a surge in Li-ion battery consumption. However, as these batteries reach their end of life,
+        managing the resulting waste is a significant challenge. Proper disposal and recycling of Li-ion Batteries are
+        essential to minimize environmental impact.</p>
+    <p class="texts">Li-ion batteries, if not managed properly, pose environmental hazards due to the presence of toxic
+        materials. Improper disposal can contaminate soil and water, endangering ecosystems and public health. In
+        contrast, responsible Li-ion battery waste management offers economic benefits such as resource recovery and the
+        reduction of raw material demand.</p><br>
+</div>
+
+<div class="container" style="margin-bottom: 5%; text-align: left;">
+    <div class="section-title text-center">
+        <h4>Challenges in Li-ion Battery Waste Management</h4>
+    </div>
+    <p class="texts"><b>Lack of Awareness:</b> Many consumers are unaware of the environmental impact of improper
+        battery disposal and the importance of recycling.</p>
+    <p class="texts"><b>Inadequate Infrastructure:</b> India lacks a robust recycling infrastructure for Li-ion
+        batteries, leading to improper disposal or hoarding.</p>
+    <p class="texts"><b>Informal Sector Involvement:</b> A significant portion of Li-ion battery recycling in India
+        occurs in the informal sector, raising concerns about worker safety and environmental standards.</p>
+    <p class="texts"><b>Regulatory Gaps:</b> Comprehensive regulations for Li-ion battery waste management are still
+        evolving, making enforcement and compliance a challenge.</p>
+</div>
+
+
+<div
+    style="background-image: url(assets/images/bg/greybackgroundr.jpg);margin-bottom: 5%;text-align: left; padding: 26px 0px 25px 0px;">
+    <div class="section-title text-center">
+        <h4>How BWM's Lithium-Ion Battery Recycling works</h4>
+    </div>
+    <div class="container">
+        <p class="texts"><b>Collection:</b> Used lithium-ion batteries are collected from various sources, including
+            recycling centers, electronic waste collection sites, and manufacturers' take-back programs.</p>
+
+        <p class="texts"><b>Discharge:</b> Before processing, the batteries are discharged to remove any remaining
+            energy, reducing the risk of short circuits during recycling.
+        </p>
+
+        <p class="texts"><b>Sorting:</b> The collected batteries are sorted by type, size, and chemistry. Lithium-ion
+            batteries come in various shapes and sizes, each requiring specific recycling methods.
+        </p>
+
+        <p class="texts"><b>Shredding:</b> The sorted batteries are then shredded into small pieces, separating the
+            casing, electrodes, and the electrolyte.</p>
+
+        <p class="texts"><b>Heating:</b> The shredded materials are heated to a high temperature to burn off organic
+            compounds and plastics, leaving behind a black powder containing valuable metals like lithium, cobalt,
+            nickel, and copper.</p>
+        <p class="texts"><b>Metal Recovery:</b> This black powder undergoes further processes to recover individual
+            metals. For instance, hydrometallurgical techniques are used to extract lithium, while cobalt and nickel are
+            often recovered via precipitation and ion exchange methods.</p>
+        <p class="texts"><b>Reuse or Manufacturing:</b> The recovered materials can be used to produce new batteries or
+            other products, completing the recycling loop.</p>
+    </div>
+</div>
+
+<div class="container" style="margin-bottom: 5%; text-align: left;">
+
+    <p class="texts">Efficient lithium-ion battery recycling not only conserves valuable
+        resources but also reduces the environmental impact associated with mining and manufacturing new batteries. With
+        concerted efforts, we at BWM are building a robust recycling infrastructure, promoting responsible consumer
+        behavior, and maximizing the economic potential of Li-ion battery waste management.
+
+        Specialised Recycling Content needs to be discussed beforehand. Currently, I do not have a clear idea of the
+        same. Will update soon.
+    </p>
 </div>
 
 <?php include('footer.php'); ?>

@@ -68,56 +68,78 @@
 <!-- Page Banner End -->
 
 <div
-    style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
-        responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a
-        better future.</p>
-    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
-        art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise
-        waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are
-        dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste
-        properly and creatively, as it is a major environmental concern.Our upcycling technique puts new life into
-        discarded electronic gadgets and components. We recycle and reuse important parts from unnecessary laptops,
-        smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique,
-        functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly
-        procedures</p>
-    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
-        recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the
-        need for fresh resources.</p><br>
-
-    <!-- Service Content Start -->
-    <div class="service-content">
-        <div class="service-list" style="text-align: justify; padding: 3%;">
-            <ul>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"><b>Data Encryption:</b>  To prevent misuse, secure sensitive data both in transit and at rest. Establish common data backup and recovery practices to assure data availability in the event of data loss or cybersecurity issues.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"><b>Security Culture:</b> Create a data security culture inside your firm in which all employees understand the importance of data security and actively engage in protecting data assets.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"><b>Legal Compliance:</b> As a key data producer, you are required to follow all applicable data protection rules and regulations in your sector..</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"><b>Employee Education:</b> Ensure that all employees who work with sensitive information receive data security training.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"><b>Transparency and accountability:</b> Be open and honest with data subjects.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"><b>Data Inventory:</b> Keep a full list of all data assets.</span>
-                </li>
-            </ul>
-        </div>
+    style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: left;">
+    <div class="section-title text-center">
+        <h2 class="title">Data Security in Electronic Waste Recycling</h2>
     </div>
-    <!-- Service Content En -->
+    <p class="texts">The recycling of electronic waste (e-waste) is a crucial step in reducing environmental impact and
+        conserving resources. However, amid the benefits of recycling, there is an equally pressing need to address data
+        security. Electronic devices often contain sensitive and personal information, and improper handling of e-waste
+        can lead to data breaches, identity theft, and other cybersecurity risks.</p>
+    <p class="texts" style="text-align: left !important;">Modern electronic devices are data-rich repositories. They may
+        contain:</p>
+    <div class="service-list" style="text-align: left !important;">
+        <ul>
+            <li>
+                <span class="service-icon"><i class="fas fa-check"></i></span>
+                <span class="service-text">Personal files, photos, and documents</span>
+            </li>
+            <li>
+                <span class="service-icon"><i class="fas fa-check"></i></span>
+                <span class="service-text">Login credentials and passwords</span>
+            </li>
+            <li>
+                <span class="service-icon"><i class="fas fa-check"></i></span>
+                <span class="service-text">Financial data, including banking and credit card information</span>
+            </li>
+            <li>
+                <span class="service-icon"><i class="fas fa-check"></i></span>
+                <span class="service-text">Sensitive emails and messages</span>
+            </li>
+            <li>
+                <span class="service-icon"><i class="fas fa-check"></i></span>
+                <span class="service-text">Health and medical records</span>
+            </li>
+            <li>
+                <span class="service-icon"><i class="fas fa-check"></i></span>
+                <span class="service-text">Corporate or business-related data</span>
+            </li>
+        </ul>
+    </div>
+    <p class="texts" style="text-align: left !important;">If not properly handled, this data can fall into the wrong
+        hands.</p><br>
 </div>
 
+
+<div class="container" style="margin-bottom: 5%; text-align: left;">
+    <div class="section-title text-center">
+        <h4>BWM Data Security services</h4>
+        <p class="texts">Our team of experts uses state-of-the-art technology, such as specialized shredders, degaussers
+            and crushers, to ensure that all data is completely erased, making it impossible to recover. In addition to
+            providing data destruction services, we also provide consulting services to help organizations develop and
+            implement data destruction policies and procedures. This includes training your employees on best practices
+            for data destruction and providing guidance on compliance requirements.</p>
+    </div>
+    <p class="texts"><b>Off-site data destruction:</b> We'll pick up your data and transport it to our secure facility
+        for destruction.</p>
+    <p class="texts"><b>Hard drive destruction:</b> We use specialized equipment to physically destroy hard drives,
+        ensuring that the data stored on them can't be recovered.</p>
+    <p class="texts"><b>Media destruction:</b> We also destroy CDs, DVDs, tapes, and other types of media.</p>
+    <p class="texts"><b>Secure Transportation:</b> We ensure that devices are securely transported to the recycling
+        facility to prevent potential data theft during transit.</p>
+    <p class="texts"><b>Data Destruction Standards:</b> Some countries have established standards and regulations for
+        data destruction during e-waste recycling. BWM ensures 100% compliance with these regulations to avoid any legal
+        repercussions.</p>
+    <p class="texts"><b>Data Destruction Certification:</b> Most importantly, we will provide a certificate of data
+        destruction from the recycling service, which verifies that data has been securely erased or destroyed.</p>
+
+    <p class="texts text-center">Data security during electronic waste recycling is a vital consideration for individuals and
+        organizations. It not only safeguards sensitive information but also contributes to the responsible management
+        of e-waste. By following best practices, complying with regulations, and working with reputable recyclers, we
+        can ensure that e-waste recycling remains an environmentally friendly process without compromising data
+        security. Ultimately, protecting your digital identity with responsible e-waste disposal, is our greatest
+        mission at BWM.</p>
+
+</div>
 
 <?php include('footer.php'); ?>

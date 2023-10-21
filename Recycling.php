@@ -68,12 +68,16 @@
 <!-- Page Banner End -->
 
 <div style="background-image: url(assets/images/bg/service-bg6.jpg); margin-top:60%; padding: 5%; text-align: center;">
-    <p class="texts">Recycling is the process of converting waste materials into new materials and objects. This concept often
-        includes the recovery of energy from waste materials. The recyclability of a material depends on its ability to
-        reacquire the properties it had in its original state.[1] It is an alternative to "conventional" waste disposal
-        that can save material and help lower greenhouse gas emissions. It can also prevent the waste of potentially
-        useful materials and reduce the consumption of fresh raw materials, reducing energy use, air pollution (from
-        incineration) and water pollution (from landfilling).</p>
+    <p class="texts">Recycling is the most important aspect of the Circular Economy that BWM has set out to achieve. In
+        the normal economy, a certain enterprise or business produces a product, then it is consumed by the end user and
+        at the end of that product's lifetime, it is discarded out of use. At BWM, we have decided to recycle the
+        end-of-life product, or some parts of it thereof; making it reusable and keeping the economy flowing in a
+        circular motion. Recycling of the materials in this way helps longer the lifetime of products, and also
+        decreases pressure on the environment. If we continually keep disposing of the products, we need to keep
+        sourcing raw materials from mother nature, harming our Earth in a very negative way. Reusing the materials not
+        only reduces this unnecessary burden of extracting more and more raw materials but also helps lower greenhouse
+        gas emissions during the production of newer sets of products. Thus, at BWM we believe that recyclability is the
+        most important aspect of not only Circular Economy, but all of human life in general.</p>
 </div>
 
 <!-- Story Blog-1 Start -->
@@ -89,12 +93,15 @@
                 <div class="section-title">
                     <h2 class="title">Electronic Waste Recycling</h2>
                 </div>
-                <p class="texts">Our story at BWM is rooted in a strong commitment to environmental conservation, and it
-                    all began in BWM, when our visionary founder, BWM, set out on an attempt to change the future of
-                    electronic waste management.BWM's aim has been clear and constant since the beginning: to reduce the
-                    harmful effects of electronic waste through responsible recycling. BWM wants to put new life into
-                    discarded electronics, extend their usability, and promote a sustainable future, guided by
-                    unwavering devotion.</p>
+                <p class="texts">Proper electronic waste management not only safeguards the environment but also ensures
+                    compliance with national and international regulations. Furthermore, it enhances the quality of our
+                    environment and fosters a culture of sustainability.
+                    We provide convenient e-waste collection services, offering scheduled pickups or drop-off locations.
+                    Corporations can rely on us to collect a wide range of electronic devices, including old computers,
+                    printers, monitors, smartphones, and more.
+                </p>
+                <p class="texts">Henceforth, I’m not including the screenshot images. Keep the headings same as they
+                    are, and replace the old content with given new one.</p>
                 <a class="btn" href="E_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
@@ -110,14 +117,15 @@
                 <div class="section-title">
                     <h2 class="title">IT Waste Recycling</h2>
                 </div>
-                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
-                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
-                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
-                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
-                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
-                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
-                    provided.</p>
-                    <a class="btn" href="IT_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">India, as one of the world's fastest-growing IT markets, generates a substantial amount
+                    of IT waste each year. Corporations are significant contributors to the IT waste stream due to their
+                    extensive use of electronic equipment. We at BWM has made it our responsibility to take decisive
+                    action in managing their IT waste in an eco-friendly and ethical manner. Proper IT waste management
+                    not only safeguards the environment but also ensures compliance with national and international
+                    regulations. Our IT waste recycling services are designed to cater to the specific needs of
+                    corporations in India. We offer a comprehensive range of solutions to assist companies in
+                    responsibly managing their IT waste.</p>
+                <a class="btn" href="IT_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -143,16 +151,17 @@
                 <div class="section-title">
                     <h2 class="title">Plastic Waste Recycling</h2>
                 </div>
-                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-                    <a class="btn" href="Plastic_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">Industrial plastic waste is an umbrella term that encompasses a wide range of plastic
+                    materials generated by various industries, including manufacturing, packaging, construction, and
+                    automotive sectors. These plastics often end up in landfills, incinerators, or are indiscriminately
+                    discarded, leading to pollution and environmental degradation. Our industrial plastic waste
+                    recycling services are specifically tailored to meet the diverse needs of industries in India. We at
+                    BWM have made it our commitment to take proactive measures to recycle and manage this mounting
+                    plastic waste in an environmentally responsible manner, while complying with regulatory
+                    requirements, and achieving economic benefits through resource recovery.
+                </p>
+                <a class="btn" href="Plastic_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read
+                    More</a>
             </div>
         </div>
     </div>
@@ -167,14 +176,15 @@
                 <div class="section-title">
                     <h2 class="title">Biomedical Waste Recycling</h2>
                 </div>
-                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
-                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
-                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
-                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
-                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
-                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
-                    provided.</p>
-                    <a class="btn" href="Biomedical_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">Biomedical waste, generated from healthcare facilities across India, is a complex and
+                    critical issue that demands immediate attention. As the country's healthcare infrastructure
+                    continues to grow, the volume of biomedical waste is escalating, creating significant environmental
+                    and health concerns. Proper disposal techniques and compliant biomedical waste management not only
+                    safeguards the environment but also ensures that healthcare providers adhere to national and
+                    international regulations, mitigating legal risks. Our biomedical waste recycling services are
+                    customized to meet the unique needs of healthcare facilities in India.</p>
+                <a class="btn" href="Biomedical_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read
+                    More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -200,16 +210,15 @@
                 <div class="section-title">
                     <h2 class="title">Hazardous Waste Recycling</h2>
                 </div>
-                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-                    <a class="btn" href="Hazardous_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">Hazardous waste encompasses a wide array of materials generated by industries, such as
+                    chemicals, pharmaceuticals, electronics, and healthcare facilities. Improper disposal of hazardous
+                    waste, including toxic chemicals, solvents, heavy metals, and radioactive materials, poses severe
+                    environmental and health risks. Our services for Hazardous Waste Management offer convenience,
+                    security, and sustainability, allowing organizations to lead by example and drive positive change.
+                    Together, we can create a more sustainable and environmentally responsible future for India and the
+                    world.</p>
+                <a class="btn" href="Hazardous_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read
+                    More</a>
             </div>
         </div>
     </div>
@@ -224,14 +233,16 @@
                 <div class="section-title">
                     <h2 class="title">Battery Waste Recycling</h2>
                 </div>
-                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
-                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
-                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
-                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
-                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
-                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
-                    provided.</p>
-                    <a class="btn" href="Battery_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">Industrial batteries, including lead-acid batteries used in backup power systems,
+                    lithium-ion batteries powering electric vehicles, and various other types of batteries used in
+                    manufacturing processes, are an integral part of modern industry. However, the disposal and
+                    management of these batteries at the end of their life cycle present serious environmental and
+                    health challenges. At BWM, we have decided to explore the challenges associated with industrial
+                    battery waste in India and discuss innovative and sustainable solutions for responsible waste
+                    management. Our industrial battery waste management services in India are designed to address the
+                    specific needs of industries and organizations that generate industrial battery waste.</p>
+                <a class="btn" href="Battery_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read
+                    More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -257,16 +268,14 @@
                 <div class="section-title">
                     <h2 class="title">Oil Waste Recycling </h2>
                 </div>
-                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-                    <a class="btn" href="Oil_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">Industrial oil waste includes a diverse range of materials, from used lubricating oils
+                    and hydraulic fluids to waste oil sludges and contaminated oil-bearing materials. The improper
+                    disposal of industrial oil waste poses serious environmental and health risks. BWM has taken the
+                    responsibility to address this pressing issue of industrial oil waste in India and explore
+                    sustainable solutions for its responsible management and recycling. Our services offer convenience,
+                    security, and sustainability, allowing organizations to lead by example and drive positive change.
+                </p>
+                <a class="btn" href="Oil_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
         </div>
     </div>
@@ -281,14 +290,14 @@
                 <div class="section-title">
                     <h2 class="title">Paper Waste Recycling</h2>
                 </div>
-                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
-                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
-                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
-                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
-                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
-                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
-                    provided.</p>
-                    <a class="btn" href="Paper_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">Corporate paper waste encompasses various forms, including printed documents, packaging
+                    materials, used stationery, and more. Improper disposal of paper waste, whether through landfilling,
+                    burning, or indiscriminate dumping, poses severe environmental and resource-related issues. Our
+                    corporate paper waste management services in India are tailored to meet the specific needs of
+                    businesses and organizations that generate corporate paper waste. We offer a comprehensive range of
+                    solutions to help corporations responsibly manage their paper waste.</p>
+                <a class="btn" href="Paper_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read
+                    More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">
@@ -314,16 +323,15 @@
                 <div class="section-title">
                     <h2 class="title">Rubber Waste Recycling</h2>
                 </div>
-                <p class="texts">Understanding the importance of money in expanding operations, [founder's name] set out
-                    on a mission to get investments that would rocket BWM to new heights. Our dedication and vision
-                    caught the attention of [name significant investors, investment groups, or grant bodies] in
-                    [particular year or timeframe], who supplied us with the necessary resources to grow our skills,
-                    invest in cutting-edge recycling technology, and increase our effect. Reflecting on our early growth
-                    and the critical support we received, we are reminded of the challenges that we faced, the
-                    milestones we reached, and the many people who believed in BWM's vision. As we continue on our
-                    journey, we are thankful for the early days that formed our path and the supporters that powered our
-                    purpose.</p>
-                    <a class="btn" href="Rubber_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">At BWM, we are responsibly exploring the pressing issue of rubber waste in India and
+                    discussing innovative and sustainable solutions for its responsible recycling and management. Rubber
+                    waste encompasses a wide range of materials, including scrap tires, industrial rubber products, and
+                    rubber manufacturing waste. Improper disposal of rubber waste often leads to waste stockpiles, tire
+                    dumps, or incineration, which can result in soil and water contamination, air pollution, and habitat
+                    degradation. Responsible management and recycling of rubber waste are essential to mitigate these
+                    challenges.</p>
+                <a class="btn" href="Rubber_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read
+                    More</a>
             </div>
         </div>
     </div>
@@ -339,14 +347,15 @@
                 <div class="section-title">
                     <h2 class="title">Construction And Demolition Waste Recycling</h2>
                 </div>
-                <p class="texts">Our early beginnings at BWM were defined by a strong desire, drive, and a vision to lead
-                    the struggle against the environmental threat posed by electronic waste. We knew from the start that
-                    understanding our purpose required not only unbreakable commitment, but also substantial funds and
-                    investment. BWM's goals grew in line with the need for e-waste management. Within [NO OF YEARS"), we
-                    increased our reach, serving [a broader geographical area or more sorts of clients]. Our quick
-                    expansion was proof to the growing awareness of e-waste environmental impact and the solutions BWM
-                    provided.</p>
-                    <a class="btn" href="Construction_and_Demolition_Waste_Recycling.php" style="padding: 0px 35px; margin-top:20px;">Read More</a>
+                <p class="texts">Construction and demolition activities generate a vast volume of waste, including
+                    concrete, wood, metals, plastics, and more. Improper disposal of C&D waste, which often ends up in
+                    landfills or is recklessly discarded, poses serious environmental and health risks. Proper C&D waste
+                    management not only protects the environment but also ensures compliance with regulatory
+                    requirements. Our C&D waste management services are tailored to the unique needs of the construction
+                    and demolition industry in India. We offer a comprehensive range of solutions to assist stakeholders
+                    in the responsible management of construction and demolition waste.</p>
+                <a class="btn" href="Construction_and_Demolition_Waste_Recycling.php"
+                    style="padding: 0px 35px; margin-top:20px;">Read More</a>
             </div>
             <div class="col-lg-5">
                 <div class="image">

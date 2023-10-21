@@ -69,55 +69,59 @@
 
 <div
     style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental
-        responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a
-        better future.</p>
-    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of
-        art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise
-        waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are
-        dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste
-        properly and creatively, as it is a major environmental concern.Our upcycling technique puts new life into
-        discarded electronic gadgets and components. We recycle and reuse important parts from unnecessary laptops,
-        smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique,
-        functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly
-        procedures</p>
-    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by
-        recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the
-        need for fresh resources.</p><br>
-
-    <!-- Service Content Start -->
-    <div class="service-content">
-        <div class="service-list" style="text-align: justify; padding: 3%; margin-bottom:5%;">
-            <ul>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"> Bootstrap Latest version.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts">Clean and optimize code for easy.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts">Well documented and organized properly.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts">Lorem Ipsum is simply dummy text of the printing.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"> Bootstrap Latest version.</span>
-                </li>
-                <li>
-                    <span class="service-icon"><i class="fas fa-check"></i></span>
-                    <span class="service-text texts"> Clean and optimize code for easy.</span>
-                </li>
-            </ul>
-        </div>
+    <div class="section-title text-center">
+        <h2 class="title">Sustainable Vision for Waste Management: Zero Waste to Landfill</h2>
     </div>
-    <!-- Service Content En -->
+    <p class="texts">Zero waste to landfill is a holistic and environmentally conscious approach to waste management that aims to eliminate the disposal of waste in landfills. It is a goal-oriented strategy that focuses on waste reduction, reuse, recycling, and resource recovery. The essence of this concept lies in minimizing waste generation, diverting waste from landfills, and promoting sustainability.</p><br>
 </div>
 
+<div class="container" style="margin-bottom: 5%; text-align: left;">
+    <div class="section-title text-center">
+        <h4>Challenges of Implementing Zero Waste to Landfill</h4>
+    </div>
+    <p class="texts"><b>Behavioral Change:</b> Implementing zero waste practices requires a shift in societal attitudes and behaviors. Consumers, manufacturers, and communities must embrace waste reduction and recycling as core principles.</p>
+    <p class="texts"><b>Infrastructure:</b> Achieving zero waste to landfill necessitates the development of efficient recycling facilities and waste-to-energy infrastructure. Investment in these facilities may be costly.</p>
+    <p class="texts"><b>Regulatory Barriers:</b> Existing waste management regulations may not fully support zero waste goals. Advocates often need to work with government agencies to adapt and create regulations that encourage waste reduction.</p>
+    <p class="texts"><b>Costs and Investments: </b> Transitioning to a zero waste model may require initial investments in new infrastructure, training, and awareness campaigns, which can pose financial challenges.</p>
+    <p class="texts"><b>Complex Waste Streams:</b> Some materials are difficult to recycle or recover efficiently, and finding solutions for these materials can be complex.</p>
+</div>
+
+
+<div style="background-image: url(assets/images/bg/greybackgroundr.jpg);margin-bottom: 5%;text-align: left; padding: 26px 0px 25px 0px;">
+    <div class="section-title text-center">
+        <h4>BWM's Key Principles of Zero Waste to Landfill</h4>
+    </div>
+    <div class="container">
+        <p class="texts"><b>Waste Reduction:</b> The fundamental principle is to prevent waste generation at its source. This involves practices like designing products with longer lifespans, reducing packaging, and encouraging consumers to make mindful choices to minimize waste.</p>
+
+        <p class="texts"><b>Reuse:</b> Encouraging the reuse of items is an essential element of zero waste to landfill. This involves extending the life of products, such as through repair and refurbishment, rather than disposing of them after one use.</p>
+
+        <p class="texts"><b>Recycling:</b> Recycling is a key component, as it involves collecting, processing, and reusing materials to create new products. Emphasis is placed on recycling as much as possible, conserving resources and reducing the demand for virgin materials.</p>
+
+        <p class="texts"><b>Composting:</b> Organic waste, including food scraps and yard debris, can be composted to create nutrient-rich soil amendments, reducing the need for synthetic fertilizers and diverting organic waste from landfills.</p>
+
+        <p class="texts"><b>Resource Recovery:</b> Waste materials that cannot be easily recycled or composted can be processed to recover valuable resources or energy. This includes waste-to-energy technologies and extracting materials from non-recyclable waste.</p>
+    </div>
+</div>
+
+
+<div style="margin-bottom: 5%;text-align: left; padding: 26px 0px 25px 0px;">
+    <div class="section-title text-center">
+        <h4>Benefits of Zero Waste to Landfill</h4>
+    </div>
+    <div class="container">
+        <p class="texts"><b>Environmental Conservation:</b> One of the primary benefits is the significant reduction of waste sent to landfills, which reduces the risk of soil and water pollution, greenhouse gas emissions, and habitat destruction associated with landfill sites.</p>
+
+        <p class="texts"><b>Resource Preservation:</b> By minimizing waste and promoting recycling, zero waste strategies help conserve natural resources, such as minerals, metals, and timber, while reducing the energy required for extraction and manufacturing.</p>
+
+        <p class="texts"><b>Energy Efficiency:</b> Waste-to-energy technologies can harness energy from waste materials that would otherwise be discarded. This contributes to reducing the dependence on fossil fuels and lowering carbon emissions.</p>
+
+        <p class="texts"><b>Economic Value:</b> Efficient waste management creates economic opportunities through recycling industries and the generation of value from waste materials. It also reduces costs associated with landfill disposal.</p>
+
+        <p class="texts"><b>Community Engagement:</b> The zero waste approach often fosters community engagement and awareness. Citizens and businesses are encouraged to actively participate in waste reduction and recycling programs, creating a sense of shared responsibility.</p>
+        <p class="texts"><b>Sustainability:</b>Zero waste to landfill aligns with the principles of sustainability by promoting responsible resource use, waste reduction, and environmental stewardship.</p>
+        <p class="texts text-center"> The zero waste to landfill approach of BWM is a visionary and sustainable goal for waste management.  It emphasizes the importance of waste reduction, reuse, recycling, and resource recovery to minimize environmental impact and conserve resources. While challenges exist in its implementation, the long-term benefits in terms of environmental conservation, resource preservation, and economic value make it a worthwhile pursuit.</p>
+    </div>
+</div>
 
 <?php include('footer.php'); ?>

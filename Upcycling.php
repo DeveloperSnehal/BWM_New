@@ -67,10 +67,66 @@
 </div>
 <!-- Page Banner End -->
 
-<div style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
-    <p class="texts">We are committed to expanding sustainability through the art of upcycling at BWM. Our dedication to environmental responsibility goes beyond traditional methods, and upcycling is one of our fundamental pillars in reaching a better future.</p>
-    <p class="texts">Upcycling is an idea that converts discarded or unused materials into attractive, usable, and meaningful works of art. We believe that goods with a history deserve a second chance, and that by reusing them, we can minimise waste, conserve resources, and lower our carbon impact.Through the potential for change of upcycling, we are dedicated to remaking the lifetime of electronic trash (e-waste). We've made it our aim to address e-waste properly and creatively, as it is a major environmental concern.Our upcycling technique puts new life into discarded electronic gadgets and components. We recycle and reuse important parts from unnecessary laptops, smartphones, and other gadgets rather than letting them wind up in dumps. We transform e-waste into unique, functional, and refined objects through accurate workmanship, creative thinking, and environmentally friendly procedures</p>
-    <p class="texts">Every upcycled creation shows our commitment to environmental sustainability and technological innovation, by recycling . We not only keep dangerous chemicals and materials out of the environment, but we also lessen the need for fresh resources.</p>
+<div
+    style="background-image: url(assets/images/bg/greybackgroundr.jpg); margin-top:60%; margin-bottom: 5%; padding: 5%; text-align: center;">
+    <div class="section-title text-center">
+        <h2 class="title">Waste Upcycling in the Indian Economy</h2>
+    </div>
+    <p class="texts">Waste upcycling is a transformative practice gaining momentum. It involves reimagining waste
+        materials to create products of higher value. This sustainable approach not only mitigates the strain on
+        landfills but also has significant environmental and economic impacts.</p>
+    <p class="texts">While waste upcycling holds immense potential, it faces challenges in India, including limited
+        awareness, inadequate infrastructure, and the absence of comprehensive regulations. Additionally, consumers may
+        be price-sensitive and require education on the long-term benefits of upcycled products.</p>
+    <p class="texts">Hence, we at BWM, has taken this initiative to create an economy focused on Upcycling and Upcycled
+        products through Waste Management.
+    </p><br>
 </div>
 
+<div class="container" style="margin-bottom: 5%; text-align: left;">
+    <div class="section-title text-center">
+        <h4>Economic Growth</h4>
+        <p class="texts">Waste upcycling contributes to India's economic development in several ways:</p>
+    </div>
+    <p class="texts"><b>Entrepreneurship:</b> Waste upcycling encourages entrepreneurship, as individuals and businesses
+        find innovative ways to repurpose waste materials into marketable products.</p>
+    <p class="texts"><b>Job Creation:</b> The upcycling industry generates employment opportunities for artisans,
+        designers, and skilled workers, contributing to economic growth.</p>
+    <p class="texts"><b>Innovation:</b> Waste upcycling fosters innovation in design, technology, and business models.
+        Entrepreneurs constantly seek new ways to transform waste materials into valuable products.</p>
+    <p class="texts"><b>Resource Efficiency:</b> By extracting value from waste materials, upcycling reduces the need
+        for virgin resources, promoting resource efficiency and sustainability.</p>
+</div>
+
+
+<div style="background-image: url(assets/images/bg/greybackgroundr.jpg);margin-bottom: 5%;text-align: left; padding: 26px 0px 25px 0px;">
+    <div class="section-title text-center">
+        <h4>Successful Waste Upcycling</h4>
+    </div>
+    <div class="container">
+        <p class="texts"><b>Upcycled Fashion:</b> Several Indian fashion designers are embracing sustainable practices
+            by
+            using discarded textiles, saris, and even plastic waste to create unique and eco-friendly clothing. This
+            movement is not only reducing textile waste but also raising awareness about the fashion industry's
+            environmental impact.</p>
+
+        <p class="texts"><b>Furniture and Home Decor:</b> Artisans and designers are upcycling old furniture, reclaimed
+            wood, and metal to produce aesthetically pleasing and functional items. This market has grown significantly,
+            with consumers increasingly valuing eco-friendly decor.</p>
+
+        <p class="texts"><b>Waste-to-Energy:</b> Waste upcycling extends to energy production. India is exploring
+            waste-to-energy solutions, such as converting organic waste into biogas and electricity. This reduces the
+            burden
+            on traditional energy sources and lowers greenhouse gas emissions.</p>
+
+        <p class="texts"><b>E-Waste Recycling:</b> India is one of the world's largest producers of electronic waste.
+            E-waste upcycling involves extracting valuable metals and ensuring the responsible disposal of hazardous
+            components, contributing to resource recovery and environmental protection.</p>
+
+        <p class="texts"><b>Eco-Friendly Packaging:</b> Businesses are adopting upcycled materials for eco-friendly
+            packaging solutions, reducing single-use plastics and packaging waste. This aligns with the government's
+            efforts
+            to reduce plastic waste and promote sustainability.</p>
+    </div>
+</div>
 <?php include('footer.php'); ?>

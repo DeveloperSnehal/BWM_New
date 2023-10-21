@@ -93,7 +93,7 @@
                             </li>
                             <li><a href="Sustainability.php">Sustainability</a></li>
                             <li><a href="CSR.php">CSR</a></li>
-                            <li><a href="#">What We Do</a>
+                            <li><a href="#">Endeavours</a>
                                 <ul class="sub-menu">
                                     <li><a href="Recycling.php">Recycling</a></li>
                                     <li><a href="Upcycling.php">Upcycling</a></li>
@@ -188,7 +188,7 @@
                         </li>
                         <li><a href="pricing.html">Sustainability</a></li>
                         <li><a href="pricing.html">CSR</a></li>
-                        <li><a href="#">What We Do</a>
+                        <li><a href="#">Endeavours</a>
                             <ul class="sub-menu">
                                 <li><a href="Recycling.php">Recycling</a></li>
                                 <li><a href="Upcycling.php">Upcycling</a></li>
