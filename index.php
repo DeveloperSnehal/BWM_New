@@ -3,7 +3,7 @@
 
 <!-- Hero Start -->
 <div class="section techwix-hero-section-03 d-flex align-items-center"
-    style="background-image: url(assets/images/hero-bg3.jpg);">
+    style="background-image: url(assets/images/home_page/bwm-recycler-waste-management-main-page-india.jpg);">
     <div class="shape-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="944px" height="894px">
             <defs>
@@ -81,7 +81,7 @@
                     <!-- Service Item Start -->
                     <div class="service-item-03">
                         <div class="service-img">
-                            <img src="assets/images/ser-icon9.png" alt="">
+                            <img src="assets/images/home_page/bwm-waste-management-government-authorized-certified-recycler.png" alt="">
                         </div>
                         <div class="service-content">
                             <h3 class="title"><a href="#">Certified Recycler</a></h3>
@@ -95,7 +95,7 @@
                     <!-- Service Item Start -->
                     <div class="service-item-03">
                         <div class="service-img">
-                            <img src="assets/images/ser-icon10.png" alt="">
+                            <img src="assets/images/home_page/bwm-waste-management-recycler-pan-india-presence.png" alt="">
                         </div>
                         <div class="service-content">
                             <h3 class="title"><a href="service.html">Easy Pickup</a></h3>
@@ -109,7 +109,7 @@
                     <!-- Service Item Start -->
                     <div class="service-item-03">
                         <div class="service-img">
-                            <img src="assets/images/ser-icon11.png" alt="">
+                            <img src="assets/images/home_page/bwm-waste-management-eco-friendly-environmental-process.png" alt="">
                         </div>
                         <div class="service-content">
                             <h3 class="title"><a href="service.html">Eco-friendly Procedure</a></h3>
@@ -123,7 +123,7 @@
                     <!-- Service Item Start -->
                     <div class="service-item-03">
                         <div class="service-img">
-                            <img src="assets/images/ser-icon12.png" alt="">
+                            <img src="assets/images/home_page/bwm-waste-management-government-compliance.png" alt="">
                         </div>
                         <div class="service-content">
                             <h3 class="title"><a href="service.html">100% Compliance</a></h3>
@@ -271,7 +271,7 @@
                         <!-- Choose Us Item Start -->
                         <div class="choose-us-item">
                             <div class="choose-us-img">
-                                <a href="choose-us.html"><img src="assets/images/choose-us1.jpg" alt=""></a>
+                                <a href="choose-us.html"><img src="assets/images/home_page/bwm-services-waste-management-electronics.jpg" alt=""></a>
                                 <div class="choose-us-content">
                                     <h3 class="title">Electronic Waste</h3>
                                     <p>We offer a full range of collection, transportation, disassembly, recycling, and
@@ -285,7 +285,7 @@
                         <!-- Choose Us Item Start -->
                         <div class="choose-us-item">
                             <div class="choose-us-img">
-                                <a href="choose-us.html"><img src="assets/images/choose-us2.jpg" alt=""></a>
+                                <a href="choose-us.html"><img src="assets/images/home_page/bwm-services-waste-management-plastics.jpg" alt=""></a>
                                 <div class="choose-us-content">
                                     <h3 class="title">Plastic Waste</h3>
                                     <p>We begin with practical collecting methods, reviewing recyclability, sorting
@@ -299,7 +299,7 @@
                         <!-- Choose Us Item Start -->
                         <div class="choose-us-item">
                             <div class="choose-us-img">
-                                <a href="choose-us.html"><img src="assets/images/choose-us3.jpg" alt=""></a>
+                                <a href="choose-us.html"><img src="assets/images/home_page/bwm-services-waste-management-battery.jpg" alt=""></a>
                                 <div class="choose-us-content">
                                     <h3 class="title">Battery Waste</h3>
                                     <p>We break down and recycle batteries using new equipment and permitted methods,
@@ -432,11 +432,11 @@
                     <!-- Single Case Study Start -->
                     <div class="single-case-study-02">
                         <div class="case-study-img">
-                            <a href="#"><img src="assets/images/case-4.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/home_page/bwm-certifications-iso-international-quality-management-system (1).jpg" alt=""></a>
                         </div>
                         <div class="case-study-content">
                             <p class="sub-title">Certifications from</p>
-                            <h3 class="title"><a href="#"><span>Collection</span></a>
+                            <h3 class="title"><a href="#"><span>E-Waste Management</span> <br> <span> Rules, 2016</span></a>
                             </h3>
                             <p class="text">E-Waste Management Rules, 2016
                                 Permission granted for the collection, transportation, refurbishing, dismantling,
@@ -449,12 +449,11 @@
                     <!-- Single Case Study Start -->
                     <div class="single-case-study-02">
                         <div class="case-study-img">
-                            <a href="#"><img src="assets/images/case-5.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/home_page/bwm-certifications-maharashtra-pollution-control-board-mpcb.jpg" alt=""></a>
                         </div>
                         <div class="case-study-content">
                             <p class="sub-title">Multifuctional of Technology</p>
-                            <h3 class="title"><a href="#"><span>Multifunctional</span> <br> <span>of
-                                        Technology</span></a></h3>
+                            <h3 class="title"><a href="#"><span>Maharashtra Pollution</span> <br> <span>Control Board</span></a></h3>
                             <p class="text">Maharashtra Pollution Control Board
                                 Consent to operate obtained by MPCB before commission to discharge effluents into water,
                                 air, and land according to the pollution act.</p>
@@ -466,11 +465,11 @@
                     <!-- Single Case Study Start -->
                     <div class="single-case-study-02">
                         <div class="case-study-img">
-                            <a href="#"><img src="assets/images/case-6.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/home_page/bwm-certifications-iso-international-quality-management-system.jpg" alt=""></a>
                         </div>
                         <div class="case-study-content">
                             <p class="sub-title">Blockchain of Technology</p>
-                            <h3 class="title"><a href="#"><span>Blockchain</span> <br> <span>of technology</span></a>
+                            <h3 class="title"><a href="#"><span>International Quality</span> <br> <span>Management System</span></a>
                             </h3>
                             <p class="text">International Quality Management System
                                 Obtained ISO 9001:2015, ISO 14001:2015 & ISONEC 27001:2013 Certifications from the
@@ -506,7 +505,7 @@
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon17.png" alt="">
+                                <img src="assets/images/home_page/bwm-waste-management-process-collection-transportation.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="#">Collection</a></h3>
@@ -520,7 +519,7 @@
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon18.png" alt="">
+                                <img src="assets/images/home_page/bwm-waste-management-process-data-sorting.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="#">Data Destruction</a></h3>
@@ -534,7 +533,7 @@
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon19.png" alt="">
+                                <img src="assets\images\home_page\bwm-waste-management-process-sorting-materials.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="#">Sorting</a></h3>
@@ -551,7 +550,7 @@
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon17.png" alt="">
+                                <img src="assets/images/home_page/bwm-waste-management-process-data-wiping-destruction.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="#">Processing</a></h3>
@@ -565,7 +564,7 @@
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon18.png" alt="">
+                                <img src="assets\images\home_page\bwm-waste-management-process-disposal.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="#">Disposal</a></h3>
@@ -579,7 +578,7 @@
                         <!-- Service Item Start -->
                         <div class="service-item-05">
                             <div class="service-img">
-                                <img src="assets/images/ser-icon19.png" alt="">
+                                <img src="assets\images\home_page\bwm-waste-management-process-recycling.png" alt="">
                             </div>
                             <div class="service-content">
                                 <h3 class="title"><a href="#">Recycling</a></h3>

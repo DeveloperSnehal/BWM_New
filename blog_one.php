@@ -167,7 +167,7 @@
                             </div><br>
 
                             <div class="blog-details-text">
-                                <h4>Public Reporting and Transparency</h4>
+                                <h4>    Public Reporting and Transparency</h4>
                                 <p class="texts">Consider making your e-waste management practices and achievements transparent to stakeholders, customers, and the public. Demonstrating your commitment to environmental responsibility can enhance your corporate image.</p>
                             </div><br>
 

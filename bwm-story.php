@@ -2,7 +2,7 @@
 
 <!-- Page Banner Start -->
 <div class="section page-banner-section"
-    style="background-image: url(assets/images/bg/page-banner.jpg);margin-bottom: 3%;">
+    style="background-image: url(assets/images/BWM_Story/bwm-waste-management-recycling-story-main-slider.jpg);margin-bottom: 3%;">
     <div class="shape-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="944px" height="894px">
             <defs>
@@ -84,7 +84,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="image">
-                    <img src="assets/images/about-sm2.jpg" alt="">
+                    <img src="assets/images/BWM_Story/bwm-waste-management-recycler-founding.png" alt="">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -127,7 +127,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="image">
-                    <img src="assets/images/about-3.jpg" alt="">
+                    <img src="assets/images/BWM_Story/bwm-waste-management-recycling-early-growth.png" alt="">
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="image">
-                    <img src="assets/images/about-3.jpg" alt="">
+                    <img src="assets/images/BWM_Story/bwm-waste-management-recycler-india-factory.png" alt="">
                 </div>
             </div>
             <div class="col-lg-7">

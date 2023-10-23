@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 <!-- Page Banner Start -->
-<div class="section page-banner-section" style="background-image: url(assets/images/bg/page-banner.jpg);">
+<div class="section page-banner-section" style="background-image: url(assets/images/About_page/bwm_waste_management_recycler_about_main_slider.jpg);">
     <div class="shape-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="944px" height="894px">
             <defs>
@@ -78,10 +78,10 @@
                     <div class="about-img-wrap">
                         <img class="shape-1" src="assets/images/shape/about-shape2.png" alt="">
                         <div class="about-img">
-                            <img src="assets/images/about-3.jpg" alt="">
+                            <img src="assets/images/About_page/bwm-about-production-consumption.png" alt="">
                         </div>
                         <div class="about-img about-img-2">
-                            <img src="assets/images/about-4.jpg" alt="">
+                            <img src="assets/images/About_page/bwm-about-us-recycling-reuse.png" alt="">
                         </div>
                     </div>
                     <!-- About Image Wrap End -->
@@ -347,7 +347,7 @@
 
 <!-- Choose Us Start -->
 <div class="section techwix-choose-us-section-02 section-padding-02"
-    style="background-image: url(assets/images/bg/choose-us-bg2.jpg); padding-bottom:250px;">
+    style="background-image: url(assets/images/bg/choose-us-bg2.jpg); padding-bottom:60px;">
     <div class="container">
         <!-- Choose Us Wrap Start -->
         <div class="choose-us-wrap">
@@ -387,10 +387,10 @@
 </div>
 <!-- Choose Us End -->
 
-<!-- Video Start -->
+<!-- Video Start --
 <div class="section techwix-video-section" style="padding-top: 80px;">
     <div class="container">
-        <!-- Video Wrap Start -->
+        <-- Video Wrap Start --
         <div class="video-wrap" style="background-image: url(assets/images/bg/video-bg.jpg);">
             <div class="shape-1">
                 <svg xmlns="http://www.w3.org/2000/svg" width="110px" height="108px">
@@ -417,7 +417,7 @@
                     <path d="M234.904,0.974 L237.95,3.24 L3.95,253.24 L0.904,250.974 L234.904,0.974 Z" />
                 </svg>
             </div>
-            <!-- Video Content Start -->
+            <-- Video Content Start
             <div class="video-content text-center">
                 <div class="section-title">
                     <h2 class="title white">We focus on your tech success</h2>
@@ -427,12 +427,12 @@
                             class="fas fa-play"></i></a>
                 </div>
             </div>
-            <!-- Video Content End -->
+            <-- Video Content End --
         </div>
-        <!-- Video Wrap End -->
+        <-- Video Wrap End --
     </div>
 </div>
-<!-- Video End -->
+<-- Video End -->
 
 
 <!-- Testimonial Start  -->
