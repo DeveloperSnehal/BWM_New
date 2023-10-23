@@ -347,7 +347,7 @@
 
 <!-- Choose Us Start -->
 <div class="section techwix-choose-us-section-02 section-padding-02"
-    style="background-image: url(assets/images/bg/choose-us-bg2.jpg); padding-bottom:60px;">
+    style="background-image: url(assets/images/bg/choose-us-bg2.jpg); padding-bottom:250px;">
     <div class="container">
         <!-- Choose Us Wrap Start -->
         <div class="choose-us-wrap">
@@ -387,11 +387,11 @@
 </div>
 <!-- Choose Us End -->
 
-<!-- Video Start --
+<!-- Video Start -->
 <div class="section techwix-video-section" style="padding-top: 80px;">
     <div class="container">
-        <-- Video Wrap Start --
-        <div class="video-wrap" style="background-image: url(assets/images/bg/video-bg.jpg);">
+        <!-- Video Wrap Start -->
+        <div class="video-wrap" style="background-image: url(assets/images/About_page/bwm-circular-economy-waste-management-recycling-philosophy.jpg); padding: 30%;">
             <div class="shape-1">
                 <svg xmlns="http://www.w3.org/2000/svg" width="110px" height="108px">
                     <path d="M0.122,25.927 L76.527,107.793 L109.225,0.699 L0.122,25.927 " />
@@ -417,7 +417,7 @@
                     <path d="M234.904,0.974 L237.95,3.24 L3.95,253.24 L0.904,250.974 L234.904,0.974 Z" />
                 </svg>
             </div>
-            <-- Video Content Start
+            <!-- Video Content Start --
             <div class="video-content text-center">
                 <div class="section-title">
                     <h2 class="title white">We focus on your tech success</h2>
@@ -427,12 +427,12 @@
                             class="fas fa-play"></i></a>
                 </div>
             </div>
-            <-- Video Content End --
+            <-- Video Content End -->
         </div>
-        <-- Video Wrap End --
+        <!-- Video Wrap End -->
     </div>
 </div>
-<-- Video End -->
+<!-- Video End -->
 
 
 <!-- Testimonial Start  -->
