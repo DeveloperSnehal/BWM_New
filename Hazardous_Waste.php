@@ -2,7 +2,7 @@
 
 
 <!-- Page Banner Start -->
-<div class="section page-banner-section" style="background-image: url(assets/images/bg/page-banner.jpg);">
+<div class="section page-banner-section" style="background-image: url(assets/images/what_we_do/bwm-hazardous-waste-management-recycling-services-india.jpg);">
     <div class="shape-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="944px" height="894px">
             <defs>
@@ -79,7 +79,7 @@
                         <!-- Single Blog Start -->
                         <div class="single-blog-post single-blog">
                             <div class="blog-image">
-                                <a href="#"><img src="assets/images/blog/blog-s-1.jpg" alt=""></a>
+                                <a href="#"><img src="assets/images/what_we_do/bwm-hazardous-waste-management-recycling-services-featured.jpg" alt=""></a>
                             </div>
                             <div class="blog-content">
                                 <h3 class="title">Hazardous Waste Management in India: Protecting Lives and the

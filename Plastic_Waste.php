@@ -2,7 +2,7 @@
 
 
 <!-- Page Banner Start -->
-<div class="section page-banner-section" style="background-image: url(assets/images/bg/page-banner.jpg);">
+<div class="section page-banner-section" style="background-image: url(assets/images/what_we_do/bwm-plastic-waste-management-recycling-services-india.jpg);">
     <div class="shape-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="944px" height="894px">
             <defs>
