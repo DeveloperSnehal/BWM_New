@@ -8555,6 +8555,7 @@ only screen and (max-width: 767px) {
 
 .blog-details-post .single-blog-post {
   margin-top: 40px;
+  margin-bottom: 50px;
 }
 
 .blog-details-post .single-blog-post.single-blog .blog-content {

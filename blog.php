@@ -78,7 +78,7 @@
                         <!-- Single Blog Start -->
                         <div class="single-blog-post single-blog">
                             <div class="blog-image">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-s-1.jpg" alt=""></a>
+                                <a href="blog_one.php"><img src="assets/images/blog/blog-s-1.jpg" alt=""></a>
                                 <div class="top-meta">
                                     <span class="date"><span>08</span>Aug</span>
                                 </div>
@@ -89,13 +89,15 @@
                                     <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
                                     <span><i class="far fa-comments"></i> 0 Comments</span>
                                 </div>
-                                <h3 class="title"><a href="blog-details.html">How to become a successful businessman
+                                <h3 class="title"><a href="blog_one.php">Implementation Plan for E-Waste Disposal
+                                        and Management
                                     </a></h3>
-                                <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                    entire remote team of incredible freelance talent for all your software development
-                                    needs.</p>
+                                <p class="text">As electronic devices continue to dominate the corporate world in India,
+                                    managing electronic waste, or e-waste, has become a critical responsibility. To
+                                    ensure responsible disposal and reduce environmental impact, large corporations
+                                    should develop and implement a structured e-waste management plan.</p>
                                 <div class="blog-btn">
-                                    <a class="blog-btn-link" href="blog-details.html">Read Full <i
+                                    <a class="blog-btn-link" href="blog_one.php">Read Full <i
                                             class="fas fa-long-arrow-alt-right"></i></a>
                                 </div>
                             </div>
@@ -104,7 +106,7 @@
                         <!-- Single Blog Start -->
                         <div class="single-blog-post single-blog">
                             <div class="blog-image">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-s-2.jpg" alt=""></a>
+                                <a href="blog_Second.php"><img src="assets/images/blog/blog-s-2.jpg" alt=""></a>
                                 <div class="top-meta">
                                     <span class="date"><span>08</span>Aug</span>
                                 </div>
@@ -115,13 +117,14 @@
                                     <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
                                     <span><i class="far fa-comments"></i> 0 Comments</span>
                                 </div>
-                                <h3 class="title"><a href="blog-details.html">Who Needs Extract Value From Data?</a>
+                                <h3 class="title"><a href="blog_Second.php">Environmental Risks because of Corporate
+                                        E-Waste</a>
                                 </h3>
-                                <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                    entire remote team of incredible freelance talent for all your software development
-                                    needs.</p>
+                                <p class="text">Electronic devices have become indispensable in today's corporate world.
+                                    While they enhance productivity and efficiency, they also contribute to a growing
+                                    environmental problem: corporate electronic waste, or e-waste.</p>
                                 <div class="blog-btn">
-                                    <a class="blog-btn-link" href="blog-details.html">Read Full <i
+                                    <a class="blog-btn-link" href="blog_Second.php">Read Full <i
                                             class="fas fa-long-arrow-alt-right"></i></a>
                                 </div>
                             </div>
@@ -130,7 +133,7 @@
                         <!-- Single Blog Start -->
                         <div class="single-blog-post single-blog">
                             <div class="blog-image">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-s-3.jpg" alt=""></a>
+                                <a href="blog_Third.php"><img src="assets/images/blog/blog-s-3.jpg" alt=""></a>
                                 <div class="top-meta">
                                     <span class="date"><span>08</span>Aug</span>
                                 </div>
@@ -141,13 +144,18 @@
                                     <span><i class="fas fa-user"></i> <a href="#">Andrew Paker</a></span>
                                     <span><i class="far fa-comments"></i> 0 Comments</span>
                                 </div>
-                                <h3 class="title"><a href="blog-details.html">Back up your database, store in a safe</a>
+                                <h3 class="title"><a href="blog_Third.php">Industrial Electronic Waste: A Hidden
+                                        Contributor to Climate Change</a>
                                 </h3>
-                                <p class="text">Accelerate innovation with world-class tech teams We’ll match you to an
-                                    entire remote team of incredible freelance talent for all your software development
-                                    needs.</p>
+                                <p class="text">https://www.yourwebsite.com/industrial-electronic-waste-climate-change
+                                </p>
+                                <p class="text">When we think of climate change, we often focus on carbon emissions from
+                                    fossil fuels and deforestation. However, there's a less obvious but equally
+                                    significant contributor: industrial electronic waste, or e-waste. This blog post
+                                    explores in detail how e-waste from industries plays a crucial role in exacerbating
+                                    climate change.</p>
                                 <div class="blog-btn">
-                                    <a class="blog-btn-link" href="blog-details.html">Read Full <i
+                                    <a class="blog-btn-link" href="blog_Third.php">Read Full <i
                                             class="fas fa-long-arrow-alt-right"></i></a>
                                 </div>
                             </div>
